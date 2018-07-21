@@ -1,0 +1,14 @@
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\bin\Debug\netcoreapp2.0\WebApplication14.deps.json
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\bin\Debug\netcoreapp2.0\WebApplication14.runtimeconfig.json
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\bin\Debug\netcoreapp2.0\WebApplication14.runtimeconfig.dev.json
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\bin\Debug\netcoreapp2.0\WebApplication14.dll
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\bin\Debug\netcoreapp2.0\WebApplication14.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\obj\Debug\netcoreapp2.0\WebApplication14.csprojAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\obj\Debug\netcoreapp2.0\WebApplication14.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\obj\Debug\netcoreapp2.0\WebApplication14.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\obj\Debug\netcoreapp2.0\WebApplication14.AssemblyInfo.cs
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\obj\Debug\netcoreapp2.0\WebApplication14.dll
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\obj\Debug\netcoreapp2.0\WebApplication14.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\bin\Debug\netcoreapp2.0\EventSourcing.Core.dll
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\bin\Debug\netcoreapp2.0\EventStore.ClientAPI.dll
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\obj\Debug\netcoreapp2.0\WebApplication14.csproj.CopyComplete

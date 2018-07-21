@@ -1,0 +1,4 @@
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\obj\Debug\netcoreapp1.0\WebApplication14.csprojAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\obj\Debug\netcoreapp1.0\WebApplication14.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\obj\Debug\netcoreapp1.0\WebApplication14.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\WebApplication14\WebApplication14\obj\Debug\netcoreapp1.0\WebApplication14.AssemblyInfo.cs
