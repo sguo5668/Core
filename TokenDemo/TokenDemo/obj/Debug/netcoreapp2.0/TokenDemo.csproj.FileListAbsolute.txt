@@ -1,0 +1,33 @@
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.deps.json
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.runtimeconfig.json
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.runtimeconfig.dev.json
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.csprojAssemblyReference.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.AssemblyInfoInputs.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.AssemblyInfo.cs
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.pdb
+C:\Users\jimmy\Desktop\My Code\login\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.deps.json
+C:\Users\jimmy\Desktop\My Code\login\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.runtimeconfig.json
+C:\Users\jimmy\Desktop\My Code\login\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\My Code\login\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.dll
+C:\Users\jimmy\Desktop\My Code\login\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.pdb
+C:\Users\jimmy\Desktop\My Code\login\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\My Code\login\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\My Code\login\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\My Code\login\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\My Code\login\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.dll
+C:\Users\jimmy\Desktop\My Code\login\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.pdb
+C:\Users\jimmy\Desktop\My Book\login\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.deps.json
+C:\Users\jimmy\Desktop\My Book\login\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.runtimeconfig.json
+C:\Users\jimmy\Desktop\My Book\login\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\My Book\login\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.dll
+C:\Users\jimmy\Desktop\My Book\login\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.0\TokenDemo.pdb
+C:\Users\jimmy\Desktop\My Book\login\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\My Book\login\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\My Book\login\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\My Book\login\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\My Book\login\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.dll
+C:\Users\jimmy\Desktop\My Book\login\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.0\TokenDemo.pdb
