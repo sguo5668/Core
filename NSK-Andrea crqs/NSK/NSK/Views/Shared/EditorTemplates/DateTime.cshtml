@@ -1,0 +1,16 @@
+﻿@model DateTime?
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@if(HttpContextAccessor.HttpContext.Request.Headers["User-Agent"].Contains("Chrome"))
+{
+	@Html.TextBoxFor(m => m, new { type = "date", value = Model, @class = "form-control" })
+}
+else if (HttpContextAccessor.HttpContext.Request.Headers["User-Agent"].Contains("Edge"))
+{
+	@Html.TextBoxFor(m => m, new { type = "date", value = Model, @class = "form-control" })
+}
+else
+{
+	@Html.TextBoxFor(m => m, new { type = "date", value = Model, @class = "form-control" })
+ 
+}

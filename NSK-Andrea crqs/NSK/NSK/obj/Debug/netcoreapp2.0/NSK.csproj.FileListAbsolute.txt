@@ -1,0 +1,42 @@
+c:\users\sguo\documents\visual studio 2017\Projects\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.deps.json
+c:\users\sguo\documents\visual studio 2017\Projects\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.runtimeconfig.json
+c:\users\sguo\documents\visual studio 2017\Projects\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.runtimeconfig.dev.json
+c:\users\sguo\documents\visual studio 2017\Projects\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.dll
+c:\users\sguo\documents\visual studio 2017\Projects\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.AssemblyInfo.cs
+c:\users\sguo\documents\visual studio 2017\Projects\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.dll
+c:\users\sguo\documents\visual studio 2017\Projects\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.pdb
+C:\Users\jimmy\Desktop\NSK\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.deps.json
+C:\Users\jimmy\Desktop\NSK\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.runtimeconfig.json
+C:\Users\jimmy\Desktop\NSK\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\NSK\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.dll
+C:\Users\jimmy\Desktop\NSK\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.pdb
+C:\Users\jimmy\Desktop\NSK\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\NSK\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\NSK\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\NSK\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.dll
+C:\Users\jimmy\Desktop\NSK\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.pdb
+C:\Users\jimmy\Desktop\event sourcing\andrea cqrs\NSK\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.deps.json
+C:\Users\jimmy\Desktop\event sourcing\andrea cqrs\NSK\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.runtimeconfig.json
+C:\Users\jimmy\Desktop\event sourcing\andrea cqrs\NSK\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\event sourcing\andrea cqrs\NSK\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.dll
+C:\Users\jimmy\Desktop\event sourcing\andrea cqrs\NSK\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.pdb
+C:\Users\jimmy\Desktop\event sourcing\andrea cqrs\NSK\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Desktop\event sourcing\andrea cqrs\NSK\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\event sourcing\andrea cqrs\NSK\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\event sourcing\andrea cqrs\NSK\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\event sourcing\andrea cqrs\NSK\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.dll
+C:\Users\jimmy\Desktop\event sourcing\andrea cqrs\NSK\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.pdb
+C:\Users\jimmy\Desktop\My DDD\NSK-Andrea\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.deps.json
+C:\Users\jimmy\Desktop\My DDD\NSK-Andrea\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.runtimeconfig.json
+C:\Users\jimmy\Desktop\My DDD\NSK-Andrea\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\My DDD\NSK-Andrea\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.dll
+C:\Users\jimmy\Desktop\My DDD\NSK-Andrea\NSK\NSK\bin\Debug\netcoreapp2.0\NSK.pdb
+C:\Users\jimmy\Desktop\My DDD\NSK-Andrea\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\My DDD\NSK-Andrea\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\My DDD\NSK-Andrea\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\My DDD\NSK-Andrea\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\My DDD\NSK-Andrea\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.dll
+C:\Users\jimmy\Desktop\My DDD\NSK-Andrea\NSK\NSK\obj\Debug\netcoreapp2.0\NSK.pdb

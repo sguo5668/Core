@@ -1,0 +1,84 @@
+﻿@model NSK.ViewModels.SearchViewModel
+
+@{
+    ViewBag.Title = "Search - NSK";
+}
+<h2>Search</h2>
+<div class="row">
+    <div class="col-md-3">
+        <form asp-action="Search">
+            <div class="form-horizontal">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Query" class="control-label col-md-3"></label>
+                    <div class="col-md-10">
+                        <input asp-for="Query" class="form-control" />
+                        <span asp-validation-for="Query" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SelectedCategoryId" class="control-label col-md-3"></label>
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(model => model.SelectedCategoryId, Model.Categories, new { @class = "form-control" })
+                        <span asp-validation-for="SelectedCategoryId" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="MaxUnitPrice" class="control-label col-md-3"></label>
+                    <div class="col-md-10">
+                        <input asp-for="MaxUnitPrice" class="form-control" />
+                        <span asp-validation-for="MaxUnitPrice" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="MinUnitPrice" class="control-label col-md-3"></label>
+                    <div class="col-md-10">
+                        <input asp-for="MinUnitPrice" class="form-control" />
+                        <span asp-validation-for="MinUnitPrice" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Search" class="btn btn-default" />
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="col-md-9">
+        @if (Model.Products != null)
+        {
+            <ul class="list-unstyled">
+                @foreach (var p in Model.Products)
+                {
+                    <li itemscope itemtype="http://schema.org/Product">
+                        <a itemprop="url" href="@UrlBuilder.BuildProductPageUrl(p.Id, p.Name)">
+                            <h3 itemprop="name">@p.Name</h3>
+                        </a>
+                        By: <span itemprop="brand">@p.SupplierName</span><br />
+                        Found in: <span itemprop="category">@p.CategoryName</span><br />
+                        <span itemprop="price">@p.UnitPrice.Value.ToString("0.00")</span><br />
+                    </li>
+                }
+            </ul>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <environment names="Development,DockerizedSqlServer">
+        <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+        <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    </environment>
+    <environment names="Staging,Production">
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/jquery.validate.min.js"
+                asp-fallback-src="~/lib/jquery-validation/dist/jquery.validate.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.validator">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.validation.unobtrusive/3.2.6/jquery.validate.unobtrusive.min.js"
+                asp-fallback-src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.validator && window.jQuery.validator.unobtrusive">
+        </script>
+    </environment>
+}
+ 
