@@ -1,0 +1,11 @@
+c:\users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData\bin\Debug\netcoreapp2.0\SeedData.deps.json
+c:\users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData\bin\Debug\netcoreapp2.0\SeedData.runtimeconfig.json
+c:\users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData\bin\Debug\netcoreapp2.0\SeedData.runtimeconfig.dev.json
+c:\users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData\bin\Debug\netcoreapp2.0\SeedData.dll
+c:\users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData\obj\Debug\netcoreapp2.0\SeedData.csprojAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData\obj\Debug\netcoreapp2.0\SeedData.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData\obj\Debug\netcoreapp2.0\SeedData.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData\obj\Debug\netcoreapp2.0\SeedData.AssemblyInfo.cs
+c:\users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData\bin\Debug\netcoreapp2.0\SeedData.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData\obj\Debug\netcoreapp2.0\SeedData.dll
+c:\users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData\obj\Debug\netcoreapp2.0\SeedData.pdb

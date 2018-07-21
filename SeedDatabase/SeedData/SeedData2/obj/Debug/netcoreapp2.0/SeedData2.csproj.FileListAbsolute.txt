@@ -1,0 +1,11 @@
+c:\Users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData2\bin\Debug\netcoreapp2.0\SeedData2.deps.json
+c:\Users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData2\bin\Debug\netcoreapp2.0\SeedData2.runtimeconfig.json
+c:\Users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData2\bin\Debug\netcoreapp2.0\SeedData2.runtimeconfig.dev.json
+c:\Users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData2\bin\Debug\netcoreapp2.0\SeedData2.dll
+c:\Users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData2\obj\Debug\netcoreapp2.0\SeedData2.csproj.CoreCompileInputs.cache
+c:\Users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData2\obj\Debug\netcoreapp2.0\SeedData2.AssemblyInfoInputs.cache
+c:\Users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData2\obj\Debug\netcoreapp2.0\SeedData2.AssemblyInfo.cs
+c:\Users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData2\bin\Debug\netcoreapp2.0\SeedData2.pdb
+c:\Users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData2\obj\Debug\netcoreapp2.0\SeedData2.csprojAssemblyReference.cache
+c:\Users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData2\obj\Debug\netcoreapp2.0\SeedData2.dll
+c:\Users\sguo\documents\visual studio 2017\Projects\SeedData\SeedData2\obj\Debug\netcoreapp2.0\SeedData2.pdb
