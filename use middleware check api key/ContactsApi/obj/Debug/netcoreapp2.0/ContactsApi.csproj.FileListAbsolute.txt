@@ -1,0 +1,11 @@
+c:\users\sguo\documents\visual studio 2017\Projects\ContactsApi\ContactsApi\bin\Debug\netcoreapp2.0\ContactsApi.deps.json
+c:\users\sguo\documents\visual studio 2017\Projects\ContactsApi\ContactsApi\bin\Debug\netcoreapp2.0\ContactsApi.runtimeconfig.json
+c:\users\sguo\documents\visual studio 2017\Projects\ContactsApi\ContactsApi\bin\Debug\netcoreapp2.0\ContactsApi.runtimeconfig.dev.json
+c:\users\sguo\documents\visual studio 2017\Projects\ContactsApi\ContactsApi\bin\Debug\netcoreapp2.0\ContactsApi.dll
+c:\users\sguo\documents\visual studio 2017\Projects\ContactsApi\ContactsApi\bin\Debug\netcoreapp2.0\ContactsApi.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\ContactsApi\ContactsApi\obj\Debug\netcoreapp2.0\ContactsApi.csprojAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\ContactsApi\ContactsApi\obj\Debug\netcoreapp2.0\ContactsApi.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\ContactsApi\ContactsApi\obj\Debug\netcoreapp2.0\ContactsApi.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\ContactsApi\ContactsApi\obj\Debug\netcoreapp2.0\ContactsApi.AssemblyInfo.cs
+c:\users\sguo\documents\visual studio 2017\Projects\ContactsApi\ContactsApi\obj\Debug\netcoreapp2.0\ContactsApi.dll
+c:\users\sguo\documents\visual studio 2017\Projects\ContactsApi\ContactsApi\obj\Debug\netcoreapp2.0\ContactsApi.pdb
