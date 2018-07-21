@@ -1,0 +1,10 @@
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\ConsoleDI\ConsoleDI\bin\Release\netcoreapp2.0\ConsoleDI.deps.json
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\ConsoleDI\ConsoleDI\bin\Release\netcoreapp2.0\ConsoleDI.runtimeconfig.json
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\ConsoleDI\ConsoleDI\bin\Release\netcoreapp2.0\ConsoleDI.runtimeconfig.dev.json
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\ConsoleDI\ConsoleDI\bin\Release\netcoreapp2.0\ConsoleDI.dll
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\ConsoleDI\ConsoleDI\bin\Release\netcoreapp2.0\ConsoleDI.pdb
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\ConsoleDI\ConsoleDI\obj\Release\netcoreapp2.0\ConsoleDI.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\ConsoleDI\ConsoleDI\obj\Release\netcoreapp2.0\ConsoleDI.AssemblyInfoInputs.cache
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\ConsoleDI\ConsoleDI\obj\Release\netcoreapp2.0\ConsoleDI.AssemblyInfo.cs
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\ConsoleDI\ConsoleDI\obj\Release\netcoreapp2.0\ConsoleDI.dll
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\ConsoleDI\ConsoleDI\obj\Release\netcoreapp2.0\ConsoleDI.pdb

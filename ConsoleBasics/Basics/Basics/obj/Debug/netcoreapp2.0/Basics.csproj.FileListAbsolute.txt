@@ -1,0 +1,12 @@
+c:\users\sguo\documents\visual studio 2017\Projects\Basics\Basics\bin\Debug\netcoreapp2.0\Basics.deps.json
+c:\users\sguo\documents\visual studio 2017\Projects\Basics\Basics\bin\Debug\netcoreapp2.0\Basics.runtimeconfig.json
+c:\users\sguo\documents\visual studio 2017\Projects\Basics\Basics\bin\Debug\netcoreapp2.0\Basics.runtimeconfig.dev.json
+c:\users\sguo\documents\visual studio 2017\Projects\Basics\Basics\bin\Debug\netcoreapp2.0\Basics.dll
+c:\users\sguo\documents\visual studio 2017\Projects\Basics\Basics\obj\Debug\netcoreapp2.0\Basics.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\Basics\Basics\obj\Debug\netcoreapp2.0\Basics.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\Basics\Basics\obj\Debug\netcoreapp2.0\Basics.AssemblyInfo.cs
+c:\users\sguo\documents\visual studio 2017\Projects\Basics\Basics\obj\Debug\netcoreapp2.0\Basics.csprojAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\Basics\Basics\bin\Debug\netcoreapp2.0\Basics.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\Basics\Basics\obj\Debug\netcoreapp2.0\Basics.dll
+c:\users\sguo\documents\visual studio 2017\Projects\Basics\Basics\obj\Debug\netcoreapp2.0\Basics.pdb
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\Basics\Basics\bin\Debug\netcoreapp2.0\Basics.dll.config

@@ -1,0 +1,11 @@
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleRepo\ConsoleRepo\bin\Debug\netcoreapp2.0\ConsoleRepo.deps.json
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleRepo\ConsoleRepo\bin\Debug\netcoreapp2.0\ConsoleRepo.runtimeconfig.json
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleRepo\ConsoleRepo\bin\Debug\netcoreapp2.0\ConsoleRepo.runtimeconfig.dev.json
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleRepo\ConsoleRepo\bin\Debug\netcoreapp2.0\ConsoleRepo.dll
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleRepo\ConsoleRepo\obj\Debug\netcoreapp2.0\ConsoleRepo.csprojAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleRepo\ConsoleRepo\obj\Debug\netcoreapp2.0\ConsoleRepo.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleRepo\ConsoleRepo\obj\Debug\netcoreapp2.0\ConsoleRepo.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleRepo\ConsoleRepo\obj\Debug\netcoreapp2.0\ConsoleRepo.AssemblyInfo.cs
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleRepo\ConsoleRepo\bin\Debug\netcoreapp2.0\ConsoleRepo.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleRepo\ConsoleRepo\obj\Debug\netcoreapp2.0\ConsoleRepo.dll
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleRepo\ConsoleRepo\obj\Debug\netcoreapp2.0\ConsoleRepo.pdb

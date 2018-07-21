@@ -1,0 +1,11 @@
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleAppCodeFirst\ConsoleAppCodeFirst\bin\Debug\netcoreapp2.0\ConsoleAppCodeFirst.deps.json
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleAppCodeFirst\ConsoleAppCodeFirst\bin\Debug\netcoreapp2.0\ConsoleAppCodeFirst.runtimeconfig.json
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleAppCodeFirst\ConsoleAppCodeFirst\bin\Debug\netcoreapp2.0\ConsoleAppCodeFirst.runtimeconfig.dev.json
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleAppCodeFirst\ConsoleAppCodeFirst\bin\Debug\netcoreapp2.0\ConsoleAppCodeFirst.dll
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleAppCodeFirst\ConsoleAppCodeFirst\obj\Debug\netcoreapp2.0\ConsoleAppCodeFirst.csprojResolveAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleAppCodeFirst\ConsoleAppCodeFirst\obj\Debug\netcoreapp2.0\ConsoleAppCodeFirst.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleAppCodeFirst\ConsoleAppCodeFirst\obj\Debug\netcoreapp2.0\ConsoleAppCodeFirst.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleAppCodeFirst\ConsoleAppCodeFirst\obj\Debug\netcoreapp2.0\ConsoleAppCodeFirst.AssemblyInfo.cs
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleAppCodeFirst\ConsoleAppCodeFirst\bin\Debug\netcoreapp2.0\ConsoleAppCodeFirst.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleAppCodeFirst\ConsoleAppCodeFirst\obj\Debug\netcoreapp2.0\ConsoleAppCodeFirst.dll
+c:\users\sguo\documents\visual studio 2017\Projects\ConsoleAppCodeFirst\ConsoleAppCodeFirst\obj\Debug\netcoreapp2.0\ConsoleAppCodeFirst.pdb
