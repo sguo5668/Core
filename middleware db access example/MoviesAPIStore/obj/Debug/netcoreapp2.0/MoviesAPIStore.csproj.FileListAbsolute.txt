@@ -1,0 +1,33 @@
+C:\Users\Sai\Documents\Visual Studio 2017\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.deps.json
+C:\Users\Sai\Documents\Visual Studio 2017\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.runtimeconfig.json
+C:\Users\Sai\Documents\Visual Studio 2017\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.runtimeconfig.dev.json
+C:\Users\Sai\Documents\Visual Studio 2017\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.dll
+C:\Users\Sai\Documents\Visual Studio 2017\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.pdb
+C:\Users\Sai\Documents\Visual Studio 2017\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.csprojResolveAssemblyReference.cache
+C:\Users\Sai\Documents\Visual Studio 2017\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.csproj.CoreCompileInputs.cache
+C:\Users\Sai\Documents\Visual Studio 2017\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.AssemblyInfoInputs.cache
+C:\Users\Sai\Documents\Visual Studio 2017\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.AssemblyInfo.cs
+C:\Users\Sai\Documents\Visual Studio 2017\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.dll
+C:\Users\Sai\Documents\Visual Studio 2017\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.pdb
+E:\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.deps.json
+E:\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.runtimeconfig.json
+E:\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.runtimeconfig.dev.json
+E:\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.dll
+E:\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.pdb
+E:\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.csprojResolveAssemblyReference.cache
+E:\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.csproj.CoreCompileInputs.cache
+E:\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.AssemblyInfoInputs.cache
+E:\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.AssemblyInfo.cs
+E:\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.dll
+E:\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.pdb
+C:\Users\sguo\Desktop\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.deps.json
+C:\Users\sguo\Desktop\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.runtimeconfig.json
+C:\Users\sguo\Desktop\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.runtimeconfig.dev.json
+C:\Users\sguo\Desktop\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.dll
+C:\Users\sguo\Desktop\MoviesAPIStore\MoviesAPIStore\bin\Debug\netcoreapp2.0\MoviesAPIStore.pdb
+C:\Users\sguo\Desktop\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.csprojAssemblyReference.cache
+C:\Users\sguo\Desktop\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Desktop\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.AssemblyInfoInputs.cache
+C:\Users\sguo\Desktop\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.AssemblyInfo.cs
+C:\Users\sguo\Desktop\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.dll
+C:\Users\sguo\Desktop\MoviesAPIStore\MoviesAPIStore\obj\Debug\netcoreapp2.0\MoviesAPIStore.pdb
