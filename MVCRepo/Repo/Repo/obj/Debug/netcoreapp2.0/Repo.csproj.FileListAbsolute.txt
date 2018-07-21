@@ -1,0 +1,11 @@
+c:\users\sguo\documents\visual studio 2017\Projects\Repo\Repo\bin\Debug\netcoreapp2.0\Repo.deps.json
+c:\users\sguo\documents\visual studio 2017\Projects\Repo\Repo\bin\Debug\netcoreapp2.0\Repo.runtimeconfig.json
+c:\users\sguo\documents\visual studio 2017\Projects\Repo\Repo\bin\Debug\netcoreapp2.0\Repo.runtimeconfig.dev.json
+c:\users\sguo\documents\visual studio 2017\Projects\Repo\Repo\bin\Debug\netcoreapp2.0\Repo.dll
+c:\users\sguo\documents\visual studio 2017\Projects\Repo\Repo\bin\Debug\netcoreapp2.0\Repo.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\Repo\Repo\obj\Debug\netcoreapp2.0\Repo.csprojAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\Repo\Repo\obj\Debug\netcoreapp2.0\Repo.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\Repo\Repo\obj\Debug\netcoreapp2.0\Repo.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\Repo\Repo\obj\Debug\netcoreapp2.0\Repo.AssemblyInfo.cs
+c:\users\sguo\documents\visual studio 2017\Projects\Repo\Repo\obj\Debug\netcoreapp2.0\Repo.dll
+c:\users\sguo\documents\visual studio 2017\Projects\Repo\Repo\obj\Debug\netcoreapp2.0\Repo.pdb
