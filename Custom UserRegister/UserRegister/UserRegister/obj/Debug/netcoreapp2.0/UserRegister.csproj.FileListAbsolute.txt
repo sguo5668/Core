@@ -1,0 +1,11 @@
+c:\users\sguo\documents\visual studio 2017\Projects\UserRegister\UserRegister\obj\Debug\netcoreapp2.0\UserRegister.csprojAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\UserRegister\UserRegister\obj\Debug\netcoreapp2.0\UserRegister.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\UserRegister\UserRegister\obj\Debug\netcoreapp2.0\UserRegister.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\UserRegister\UserRegister\obj\Debug\netcoreapp2.0\UserRegister.AssemblyInfo.cs
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\UserRegister\UserRegister\bin\Debug\netcoreapp2.0\UserRegister.deps.json
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\UserRegister\UserRegister\bin\Debug\netcoreapp2.0\UserRegister.runtimeconfig.json
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\UserRegister\UserRegister\bin\Debug\netcoreapp2.0\UserRegister.runtimeconfig.dev.json
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\UserRegister\UserRegister\bin\Debug\netcoreapp2.0\UserRegister.dll
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\UserRegister\UserRegister\bin\Debug\netcoreapp2.0\UserRegister.pdb
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\UserRegister\UserRegister\obj\Debug\netcoreapp2.0\UserRegister.dll
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\UserRegister\UserRegister\obj\Debug\netcoreapp2.0\UserRegister.pdb
