@@ -1,0 +1,50 @@
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.deps.json
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.runtimeconfig.json
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.dll
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.pdb
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\ApplicationCore.dll
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\Infrastructure.dll
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\ApplicationCore.pdb
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\Infrastructure.pdb
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.dll
+C:\Users\jimmy\Desktop\eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.pdb
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.deps.json
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.runtimeconfig.json
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.dll
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.pdb
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\ApplicationCore.dll
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\Infrastructure.dll
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\ApplicationCore.pdb
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\Infrastructure.pdb
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.csproj.CopyComplete
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.dll
+C:\Users\jimmy\Desktop\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.pdb
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.deps.json
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.runtimeconfig.json
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.dll
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\eShopOnWeb.pdb
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\ApplicationCore.dll
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\Infrastructure.dll
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\ApplicationCore.pdb
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\bin\Debug\netcoreapp1.1\Infrastructure.pdb
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.csproj.CopyComplete
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.dll
+C:\Users\jimmy\Desktop\My Book\eShopOnWeb\MyVersion_eShopOnWeb\eShopOnWeb\eShopOnWeb\obj\Debug\netcoreapp1.1\eShopOnWeb.pdb
