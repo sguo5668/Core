@@ -1,0 +1,18 @@
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Infrastructure\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.deps.json
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Infrastructure\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Infrastructure\obj\Debug\netcoreapp2.0\CQRS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Infrastructure\obj\Debug\netcoreapp2.0\CQRS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Infrastructure\obj\Debug\netcoreapp2.0\CQRS.Infrastructure.AssemblyInfo.cs
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Infrastructure\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Infrastructure\obj\Debug\netcoreapp2.0\CQRS.Infrastructure.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Infrastructure\obj\Debug\netcoreapp2.0\CQRS.Infrastructure.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Infrastructure\obj\Debug\netcoreapp2.0\CQRS.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Infrastructure\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.deps.json
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Infrastructure\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Infrastructure\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Infrastructure\obj\Debug\netcoreapp2.0\CQRS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Infrastructure\obj\Debug\netcoreapp2.0\CQRS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Infrastructure\obj\Debug\netcoreapp2.0\CQRS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Infrastructure\obj\Debug\netcoreapp2.0\CQRS.Infrastructure.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Infrastructure\obj\Debug\netcoreapp2.0\CQRS.Infrastructure.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Infrastructure\obj\Debug\netcoreapp2.0\CQRS.Infrastructure.pdb

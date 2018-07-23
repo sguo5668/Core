@@ -1,0 +1,23 @@
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.ReadSide\bin\Debug\netcoreapp2.0\CQRS.ReadSide.deps.json
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.ReadSide\bin\Debug\netcoreapp2.0\CQRS.ReadSide.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.ReadSide\obj\Debug\netcoreapp2.0\CQRS.ReadSide.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.ReadSide\obj\Debug\netcoreapp2.0\CQRS.ReadSide.AssemblyInfoInputs.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.ReadSide\obj\Debug\netcoreapp2.0\CQRS.ReadSide.AssemblyInfo.cs
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.ReadSide\obj\Debug\netcoreapp2.0\CQRS.ReadSide.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.ReadSide\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.ReadSide\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.ReadSide\bin\Debug\netcoreapp2.0\CQRS.ReadSide.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.ReadSide\obj\Debug\netcoreapp2.0\CQRS.ReadSide.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.ReadSide\obj\Debug\netcoreapp2.0\CQRS.ReadSide.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.ReadSide\bin\Debug\netcoreapp2.0\CQRS.ReadSide.deps.json
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.ReadSide\bin\Debug\netcoreapp2.0\CQRS.ReadSide.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.ReadSide\bin\Debug\netcoreapp2.0\CQRS.ReadSide.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.ReadSide\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.ReadSide\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.ReadSide\obj\Debug\netcoreapp2.0\CQRS.ReadSide.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.ReadSide\obj\Debug\netcoreapp2.0\CQRS.ReadSide.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.ReadSide\obj\Debug\netcoreapp2.0\CQRS.ReadSide.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.ReadSide\obj\Debug\netcoreapp2.0\CQRS.ReadSide.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.ReadSide\obj\Debug\netcoreapp2.0\CQRS.ReadSide.csproj.CopyComplete
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.ReadSide\obj\Debug\netcoreapp2.0\CQRS.ReadSide.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.ReadSide\obj\Debug\netcoreapp2.0\CQRS.ReadSide.pdb

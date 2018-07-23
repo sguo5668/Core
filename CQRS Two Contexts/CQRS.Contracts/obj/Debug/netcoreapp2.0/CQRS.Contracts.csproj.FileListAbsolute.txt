@@ -1,0 +1,23 @@
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Contracts\obj\Debug\netcoreapp2.0\CQRS.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Contracts\obj\Debug\netcoreapp2.0\CQRS.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Contracts\obj\Debug\netcoreapp2.0\CQRS.Contracts.AssemblyInfoInputs.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Contracts\obj\Debug\netcoreapp2.0\CQRS.Contracts.AssemblyInfo.cs
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Contracts\bin\Debug\netcoreapp2.0\CQRS.Contracts.deps.json
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Contracts\bin\Debug\netcoreapp2.0\CQRS.Contracts.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Contracts\bin\Debug\netcoreapp2.0\CQRS.Contracts.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Contracts\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Contracts\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Contracts\obj\Debug\netcoreapp2.0\CQRS.Contracts.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS.Contracts\obj\Debug\netcoreapp2.0\CQRS.Contracts.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Contracts\bin\Debug\netcoreapp2.0\CQRS.Contracts.deps.json
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Contracts\bin\Debug\netcoreapp2.0\CQRS.Contracts.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Contracts\bin\Debug\netcoreapp2.0\CQRS.Contracts.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Contracts\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Contracts\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Contracts\obj\Debug\netcoreapp2.0\CQRS.Contracts.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Contracts\obj\Debug\netcoreapp2.0\CQRS.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Contracts\obj\Debug\netcoreapp2.0\CQRS.Contracts.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Contracts\obj\Debug\netcoreapp2.0\CQRS.Contracts.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Contracts\obj\Debug\netcoreapp2.0\CQRS.Contracts.csproj.CopyComplete
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Contracts\obj\Debug\netcoreapp2.0\CQRS.Contracts.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS.Contracts\obj\Debug\netcoreapp2.0\CQRS.Contracts.pdb

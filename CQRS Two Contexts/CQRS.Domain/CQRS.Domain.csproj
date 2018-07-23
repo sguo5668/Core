@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CQRS.Contracts\CQRS.Contracts.csproj" />
+    <ProjectReference Include="..\CQRS.DataAccess\CQRS.DataAccess.csproj" />
+    <ProjectReference Include="..\CQRS.Infrastructure\CQRS.Infrastructure.csproj" />
+    <ProjectReference Include="..\CQRS.ReadSide\CQRS.ReadSide.csproj" />
+  </ItemGroup>
+
+</Project>

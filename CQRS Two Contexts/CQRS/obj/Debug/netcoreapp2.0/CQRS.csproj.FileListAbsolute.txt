@@ -1,0 +1,47 @@
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.deps.json
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.runtimeconfig.json
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.runtimeconfig.dev.json
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.Contracts.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.DataAccess.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.Domain.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.Messaging.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.ReadSide.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.Contracts.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.Messaging.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.ReadSide.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.DataAccess.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.Domain.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\obj\Debug\netcoreapp2.0\CQRS.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\obj\Debug\netcoreapp2.0\CQRS.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\obj\Debug\netcoreapp2.0\CQRS.AssemblyInfoInputs.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\obj\Debug\netcoreapp2.0\CQRS.AssemblyInfo.cs
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\bin\Debug\netcoreapp2.0\CQRS.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\obj\Debug\netcoreapp2.0\CQRS.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CQRS\CQRS\obj\Debug\netcoreapp2.0\CQRS.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.deps.json
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.runtimeconfig.json
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.Contracts.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.DataAccess.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.Domain.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.Messaging.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.ReadSide.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.Contracts.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.Infrastructure.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.Messaging.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.ReadSide.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.DataAccess.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\bin\Debug\netcoreapp2.0\CQRS.Domain.pdb
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\obj\Debug\netcoreapp2.0\CQRS.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\obj\Debug\netcoreapp2.0\CQRS.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\obj\Debug\netcoreapp2.0\CQRS.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\obj\Debug\netcoreapp2.0\CQRS.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\obj\Debug\netcoreapp2.0\CQRS.csproj.CopyComplete
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\obj\Debug\netcoreapp2.0\CQRS.dll
+C:\Users\jimmy\Desktop\My DDD\CQRS Two Contexts\CQRS\obj\Debug\netcoreapp2.0\CQRS.pdb
