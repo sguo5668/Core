@@ -1,0 +1,15 @@
+c:\users\jimmy\documents\visual studio 2017\Projects\CrqsTodo\CrqsTodo\bin\Debug\netcoreapp1.1\CrqsTodo.deps.json
+c:\users\jimmy\documents\visual studio 2017\Projects\CrqsTodo\CrqsTodo\bin\Debug\netcoreapp1.1\CrqsTodo.runtimeconfig.json
+c:\users\jimmy\documents\visual studio 2017\Projects\CrqsTodo\CrqsTodo\bin\Debug\netcoreapp1.1\CrqsTodo.runtimeconfig.dev.json
+c:\users\jimmy\documents\visual studio 2017\Projects\CrqsTodo\CrqsTodo\bin\Debug\netcoreapp1.1\CrqsTodo.dll
+c:\users\jimmy\documents\visual studio 2017\Projects\CrqsTodo\CrqsTodo\obj\Debug\netcoreapp1.1\CrqsTodo.csprojResolveAssemblyReference.cache
+c:\users\jimmy\documents\visual studio 2017\Projects\CrqsTodo\CrqsTodo\obj\Debug\netcoreapp1.1\CrqsTodo.csproj.CoreCompileInputs.cache
+c:\users\jimmy\documents\visual studio 2017\Projects\CrqsTodo\CrqsTodo\obj\Debug\netcoreapp1.1\CrqsTodo.AssemblyInfoInputs.cache
+c:\users\jimmy\documents\visual studio 2017\Projects\CrqsTodo\CrqsTodo\obj\Debug\netcoreapp1.1\CrqsTodo.AssemblyInfo.cs
+c:\users\jimmy\documents\visual studio 2017\Projects\CrqsTodo\CrqsTodo\bin\Debug\netcoreapp1.1\CrqsTodo.pdb
+c:\users\jimmy\documents\visual studio 2017\Projects\CrqsTodo\CrqsTodo\obj\Debug\netcoreapp1.1\CrqsTodo.dll
+c:\users\jimmy\documents\visual studio 2017\Projects\CrqsTodo\CrqsTodo\obj\Debug\netcoreapp1.1\CrqsTodo.pdb
+C:\Users\jimmy\Desktop\My DDD\CrqsTodo\CrqsTodo\obj\Debug\netcoreapp1.1\CrqsTodo.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Desktop\My DDD\CrqsTodo\CrqsTodo\obj\Debug\netcoreapp1.1\CrqsTodo.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\My DDD\CrqsTodo\CrqsTodo\obj\Debug\netcoreapp1.1\CrqsTodo.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\My DDD\CrqsTodo\CrqsTodo\obj\Debug\netcoreapp1.1\CrqsTodo.AssemblyInfo.cs
