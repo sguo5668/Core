@@ -1,0 +1,11 @@
+c:\users\sguo\documents\visual studio 2017\Projects\MediatR_test\MediatR_test\bin\Debug\netcoreapp2.0\MediatR_test.deps.json
+c:\users\sguo\documents\visual studio 2017\Projects\MediatR_test\MediatR_test\bin\Debug\netcoreapp2.0\MediatR_test.runtimeconfig.json
+c:\users\sguo\documents\visual studio 2017\Projects\MediatR_test\MediatR_test\bin\Debug\netcoreapp2.0\MediatR_test.runtimeconfig.dev.json
+c:\users\sguo\documents\visual studio 2017\Projects\MediatR_test\MediatR_test\bin\Debug\netcoreapp2.0\MediatR_test.dll
+c:\users\sguo\documents\visual studio 2017\Projects\MediatR_test\MediatR_test\obj\Debug\netcoreapp2.0\MediatR_test.csprojResolveAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\MediatR_test\MediatR_test\obj\Debug\netcoreapp2.0\MediatR_test.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\MediatR_test\MediatR_test\obj\Debug\netcoreapp2.0\MediatR_test.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\MediatR_test\MediatR_test\obj\Debug\netcoreapp2.0\MediatR_test.AssemblyInfo.cs
+c:\users\sguo\documents\visual studio 2017\Projects\MediatR_test\MediatR_test\bin\Debug\netcoreapp2.0\MediatR_test.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\MediatR_test\MediatR_test\obj\Debug\netcoreapp2.0\MediatR_test.dll
+c:\users\sguo\documents\visual studio 2017\Projects\MediatR_test\MediatR_test\obj\Debug\netcoreapp2.0\MediatR_test.pdb
