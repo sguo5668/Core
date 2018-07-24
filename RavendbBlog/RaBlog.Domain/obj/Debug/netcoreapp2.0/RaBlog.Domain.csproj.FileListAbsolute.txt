@@ -1,0 +1,9 @@
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\RavenBlog\RaBlog.Domain\bin\Debug\netcoreapp2.0\RaBlog.Domain.deps.json
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\RavenBlog\RaBlog.Domain\bin\Debug\netcoreapp2.0\RaBlog.Domain.dll
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\RavenBlog\RaBlog.Domain\bin\Debug\netcoreapp2.0\RaBlog.Domain.pdb
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\RavenBlog\RaBlog.Domain\obj\Debug\netcoreapp2.0\RaBlog.Domain.csprojAssemblyReference.cache
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\RavenBlog\RaBlog.Domain\obj\Debug\netcoreapp2.0\RaBlog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\RavenBlog\RaBlog.Domain\obj\Debug\netcoreapp2.0\RaBlog.Domain.AssemblyInfoInputs.cache
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\RavenBlog\RaBlog.Domain\obj\Debug\netcoreapp2.0\RaBlog.Domain.AssemblyInfo.cs
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\RavenBlog\RaBlog.Domain\obj\Debug\netcoreapp2.0\RaBlog.Domain.dll
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\RavenBlog\RaBlog.Domain\obj\Debug\netcoreapp2.0\RaBlog.Domain.pdb

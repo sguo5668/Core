@@ -1,0 +1,28 @@
+﻿@model IEnumerable<RaBlog.Domain.Model.Blog>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div style="padding: 5px">
+    @foreach (var item in Model)
+    {
+        <div class="blog-item">
+            <div class="blog-heading">
+                <h3>@Html.DisplayFor(modelItem => item.Title)</h3>
+            </div>
+            <div class="blog-item-content">
+                @if(item.Content.Length>200)
+                {
+                    @item.Content.Substring(0, 200); @Html.Encode(" "); @Html.ActionLink("[...]", "Details", new { id = item.Id });
+                }
+                else
+                {
+                    @item.Content; @Html.Encode(" "); @Html.ActionLink("[...]", "Details", new { id = item.Id });
+                }
+            </div>
+            <div class="blog-item-footer">
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Id })
+            </div>
+        </div>
+    }
+</div>

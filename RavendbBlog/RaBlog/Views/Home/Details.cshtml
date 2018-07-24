@@ -1,0 +1,35 @@
+﻿@model RaBlog.Domain.Model.Blog
+<div class="blog-heading">
+    <h3>@Html.DisplayFor(model => model.Title)</h3>
+</div>
+<div class="blog-item-footer">
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</div>
+<div class="blog-item-content">
+    @Html.DisplayFor(model => model.Content)
+</div>
+<div>
+    @if (Model.Comments != null)
+    {
+        <div>
+            <h3>User Feedback</h3>
+        </div>
+        foreach (var item in Model.Comments)
+        {
+        <div style="border: solid 1px #F0F0F0; margin: 2px">
+            <div class="comment-author">
+                Comments by - @item.Author
+            </div>
+            <div class="comment-message">
+                @item.Message
+            </div>
+        </div>
+        }
+    }
+</div>
+<div id="addComments" style="display: inline;">
+    <div>
+        @Html.Partial("CreateComments", new RaBlog.Domain.Model.Comment { BlogId = Model.Id })
+    </div>
+</div>

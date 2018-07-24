@@ -1,0 +1,39 @@
+﻿@model RaBlog.Domain.Model.Comment
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Post Comment</legend>
+        @Html.HiddenFor(model => model.BlogId)
+        <div style="height:35px;">
+            <div class="editor-label" style="float:left; width:125px">
+                @Html.LabelFor(model => model.Author)
+            </div>
+            <div class="editor-field" style="float:left;">
+                @Html.EditorFor(model => model.Author)
+                @Html.ValidationMessageFor(model => model.Author)
+            </div>
+        </div>
+        <div style="height:35px;">
+            <div class="editor-label" style="float:left; width:125px">
+                @Html.LabelFor(model => model.Email)
+            </div>
+            <div class="editor-field" style="float:left">
+                @Html.EditorFor(model => model.Email)
+                @Html.ValidationMessageFor(model => model.Email)
+            </div>
+        </div>
+        <div style="height:35px;">
+            <div class="editor-label" style="float:left; width:125px">
+                @Html.LabelFor(model => model.Message)
+            </div>
+            <div class="editor-field" style="float:left;">
+                @Html.TextAreaFor(model => model.Message, new { rows = 5, cols = 100 })
+                @Html.ValidationMessageFor(model => model.Message)
+            </div>
+        </div>
+        <p>
+            <input type="submit" name="CreateComment" value="Post Comment" />
+        </p>
+    </fieldset>
+}
