@@ -1,0 +1,11 @@
+c:\users\sguo\documents\visual studio 2017\Projects\MVCCoreDemo\MVCCoreDemo\bin\Debug\netcoreapp2.0\MVCCoreDemo.deps.json
+c:\users\sguo\documents\visual studio 2017\Projects\MVCCoreDemo\MVCCoreDemo\bin\Debug\netcoreapp2.0\MVCCoreDemo.runtimeconfig.json
+c:\users\sguo\documents\visual studio 2017\Projects\MVCCoreDemo\MVCCoreDemo\bin\Debug\netcoreapp2.0\MVCCoreDemo.runtimeconfig.dev.json
+c:\users\sguo\documents\visual studio 2017\Projects\MVCCoreDemo\MVCCoreDemo\bin\Debug\netcoreapp2.0\MVCCoreDemo.dll
+c:\users\sguo\documents\visual studio 2017\Projects\MVCCoreDemo\MVCCoreDemo\bin\Debug\netcoreapp2.0\MVCCoreDemo.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\MVCCoreDemo\MVCCoreDemo\obj\Debug\netcoreapp2.0\MVCCoreDemo.csprojAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\MVCCoreDemo\MVCCoreDemo\obj\Debug\netcoreapp2.0\MVCCoreDemo.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\MVCCoreDemo\MVCCoreDemo\obj\Debug\netcoreapp2.0\MVCCoreDemo.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\MVCCoreDemo\MVCCoreDemo\obj\Debug\netcoreapp2.0\MVCCoreDemo.AssemblyInfo.cs
+c:\users\sguo\documents\visual studio 2017\Projects\MVCCoreDemo\MVCCoreDemo\obj\Debug\netcoreapp2.0\MVCCoreDemo.dll
+c:\users\sguo\documents\visual studio 2017\Projects\MVCCoreDemo\MVCCoreDemo\obj\Debug\netcoreapp2.0\MVCCoreDemo.pdb

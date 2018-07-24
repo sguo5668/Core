@@ -1,0 +1,23 @@
+﻿@model IEnumerable<MVCCoreDemo.Models.DOTAHero>
+@inject MVCCoreDemo.Models.HeroStats Stats
+<h2>Hello ASP.NET Core 1.0!</h2>
+<h3>My Favorite DOTA 2 Heroes</h3>
+<ul>
+    @foreach (var p in Model)
+    {
+        <li>@($"{p.Name} {p.Type}")</li>
+    }
+</ul>
+
+<div>
+    <h4>Stats</h4>
+    <p>Number of Strength Heroes: @await Stats.GetHeroCountByType("strength")</p>
+    <p>Number of Agility Heroes: @await Stats.GetHeroCountByType("agility")</p>
+    <p>Number of Intelligence Heroes: @await Stats.GetHeroCountByType("intelligence")</p>
+    <p>Total Heroes Heroes: @await Stats.GetHeroCount()</p>
+</div>
+
+<div>
+    @await Component.InvokeAsync("HeroList", new { type = "agility" })
+</div>
+
