@@ -1,0 +1,11 @@
+c:\users\sguo\documents\visual studio 2017\Projects\StudentApplication.Web\StudentApplication.Web\obj\Debug\netcoreapp2.0\StudentApplication.Web.csprojAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\StudentApplication.Web\StudentApplication.Web\obj\Debug\netcoreapp2.0\StudentApplication.Web.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\StudentApplication.Web\StudentApplication.Web\obj\Debug\netcoreapp2.0\StudentApplication.Web.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\StudentApplication.Web\StudentApplication.Web\obj\Debug\netcoreapp2.0\StudentApplication.Web.AssemblyInfo.cs
+c:\users\sguo\documents\visual studio 2017\Projects\StudentApplication.Web\StudentApplication.Web\bin\Debug\netcoreapp2.0\StudentApplication.Web.deps.json
+c:\users\sguo\documents\visual studio 2017\Projects\StudentApplication.Web\StudentApplication.Web\bin\Debug\netcoreapp2.0\StudentApplication.Web.runtimeconfig.json
+c:\users\sguo\documents\visual studio 2017\Projects\StudentApplication.Web\StudentApplication.Web\bin\Debug\netcoreapp2.0\StudentApplication.Web.runtimeconfig.dev.json
+c:\users\sguo\documents\visual studio 2017\Projects\StudentApplication.Web\StudentApplication.Web\bin\Debug\netcoreapp2.0\StudentApplication.Web.dll
+c:\users\sguo\documents\visual studio 2017\Projects\StudentApplication.Web\StudentApplication.Web\bin\Debug\netcoreapp2.0\StudentApplication.Web.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\StudentApplication.Web\StudentApplication.Web\obj\Debug\netcoreapp2.0\StudentApplication.Web.dll
+c:\users\sguo\documents\visual studio 2017\Projects\StudentApplication.Web\StudentApplication.Web\obj\Debug\netcoreapp2.0\StudentApplication.Web.pdb
