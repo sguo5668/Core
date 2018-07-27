@@ -1,0 +1,22 @@
+c:\users\sguo\documents\visual studio 2017\Projects\MVCRealWorld\MVCRealWorld\bin\Debug\netcoreapp2.0\MVCRealWorld.deps.json
+c:\users\sguo\documents\visual studio 2017\Projects\MVCRealWorld\MVCRealWorld\bin\Debug\netcoreapp2.0\MVCRealWorld.runtimeconfig.json
+c:\users\sguo\documents\visual studio 2017\Projects\MVCRealWorld\MVCRealWorld\bin\Debug\netcoreapp2.0\MVCRealWorld.runtimeconfig.dev.json
+c:\users\sguo\documents\visual studio 2017\Projects\MVCRealWorld\MVCRealWorld\bin\Debug\netcoreapp2.0\MVCRealWorld.dll
+c:\users\sguo\documents\visual studio 2017\Projects\MVCRealWorld\MVCRealWorld\bin\Debug\netcoreapp2.0\MVCRealWorld.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\MVCRealWorld\MVCRealWorld\obj\Debug\netcoreapp2.0\MVCRealWorld.csprojAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\MVCRealWorld\MVCRealWorld\obj\Debug\netcoreapp2.0\MVCRealWorld.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\MVCRealWorld\MVCRealWorld\obj\Debug\netcoreapp2.0\MVCRealWorld.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\MVCRealWorld\MVCRealWorld\obj\Debug\netcoreapp2.0\MVCRealWorld.AssemblyInfo.cs
+c:\users\sguo\documents\visual studio 2017\Projects\MVCRealWorld\MVCRealWorld\obj\Debug\netcoreapp2.0\MVCRealWorld.dll
+c:\users\sguo\documents\visual studio 2017\Projects\MVCRealWorld\MVCRealWorld\obj\Debug\netcoreapp2.0\MVCRealWorld.pdb
+C:\Users\jimmy\Desktop\My Book\MVCRealWorld\MVCRealWorld\MVCRealWorld\bin\Debug\netcoreapp2.0\MVCRealWorld.deps.json
+C:\Users\jimmy\Desktop\My Book\MVCRealWorld\MVCRealWorld\MVCRealWorld\bin\Debug\netcoreapp2.0\MVCRealWorld.runtimeconfig.json
+C:\Users\jimmy\Desktop\My Book\MVCRealWorld\MVCRealWorld\MVCRealWorld\bin\Debug\netcoreapp2.0\MVCRealWorld.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\My Book\MVCRealWorld\MVCRealWorld\MVCRealWorld\bin\Debug\netcoreapp2.0\MVCRealWorld.dll
+C:\Users\jimmy\Desktop\My Book\MVCRealWorld\MVCRealWorld\MVCRealWorld\bin\Debug\netcoreapp2.0\MVCRealWorld.pdb
+C:\Users\jimmy\Desktop\My Book\MVCRealWorld\MVCRealWorld\MVCRealWorld\obj\Debug\netcoreapp2.0\MVCRealWorld.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\My Book\MVCRealWorld\MVCRealWorld\MVCRealWorld\obj\Debug\netcoreapp2.0\MVCRealWorld.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\My Book\MVCRealWorld\MVCRealWorld\MVCRealWorld\obj\Debug\netcoreapp2.0\MVCRealWorld.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\My Book\MVCRealWorld\MVCRealWorld\MVCRealWorld\obj\Debug\netcoreapp2.0\MVCRealWorld.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\My Book\MVCRealWorld\MVCRealWorld\MVCRealWorld\obj\Debug\netcoreapp2.0\MVCRealWorld.dll
+C:\Users\jimmy\Desktop\My Book\MVCRealWorld\MVCRealWorld\MVCRealWorld\obj\Debug\netcoreapp2.0\MVCRealWorld.pdb
