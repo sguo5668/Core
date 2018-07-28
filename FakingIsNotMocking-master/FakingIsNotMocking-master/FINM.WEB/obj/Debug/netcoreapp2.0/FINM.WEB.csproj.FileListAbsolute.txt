@@ -1,0 +1,39 @@
+c:\users\fiyaz hasan\Source\Repos\FakingIsNotMocking\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.csproj.CoreCompileInputs.cache
+c:\users\fiyaz hasan\Source\Repos\FakingIsNotMocking\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.AssemblyInfoInputs.cache
+c:\users\fiyaz hasan\Source\Repos\FakingIsNotMocking\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.AssemblyInfo.cs
+c:\users\fiyaz hasan\Source\Repos\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+c:\users\fiyaz hasan\Source\Repos\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+c:\users\fiyaz hasan\Source\Repos\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.deps.json
+c:\users\fiyaz hasan\Source\Repos\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.runtimeconfig.json
+c:\users\fiyaz hasan\Source\Repos\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.runtimeconfig.dev.json
+c:\users\fiyaz hasan\Source\Repos\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.dll
+c:\users\fiyaz hasan\Source\Repos\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.pdb
+c:\users\fiyaz hasan\Source\Repos\FakingIsNotMocking\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.dll
+c:\users\fiyaz hasan\Source\Repos\FakingIsNotMocking\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.pdb
+C:\Users\Fiyaz Hasan\Source\Repos\FakingIsNotMocking\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.csprojResolveAssemblyReference.cache
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.deps.json
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.runtimeconfig.json
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.runtimeconfig.dev.json
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.dll
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.pdb
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.AssemblyInfoInputs.cache
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.AssemblyInfo.cs
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.dll
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.pdb
+C:\Users\Fiyaz\Desktop\FakingIsNotMocking\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Desktop\My Book\FakingIsNotMocking-master\FakingIsNotMocking-master\FINM.WEB\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\Users\jimmy\Desktop\My Book\FakingIsNotMocking-master\FakingIsNotMocking-master\FINM.WEB\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\Users\jimmy\Desktop\My Book\FakingIsNotMocking-master\FakingIsNotMocking-master\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.deps.json
+C:\Users\jimmy\Desktop\My Book\FakingIsNotMocking-master\FakingIsNotMocking-master\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.runtimeconfig.json
+C:\Users\jimmy\Desktop\My Book\FakingIsNotMocking-master\FakingIsNotMocking-master\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\My Book\FakingIsNotMocking-master\FakingIsNotMocking-master\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.dll
+C:\Users\jimmy\Desktop\My Book\FakingIsNotMocking-master\FakingIsNotMocking-master\FINM.WEB\bin\Debug\netcoreapp2.0\FINM.WEB.pdb
+C:\Users\jimmy\Desktop\My Book\FakingIsNotMocking-master\FakingIsNotMocking-master\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\My Book\FakingIsNotMocking-master\FakingIsNotMocking-master\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\My Book\FakingIsNotMocking-master\FakingIsNotMocking-master\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\My Book\FakingIsNotMocking-master\FakingIsNotMocking-master\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\My Book\FakingIsNotMocking-master\FakingIsNotMocking-master\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.dll
+C:\Users\jimmy\Desktop\My Book\FakingIsNotMocking-master\FakingIsNotMocking-master\FINM.WEB\obj\Debug\netcoreapp2.0\FINM.WEB.pdb
