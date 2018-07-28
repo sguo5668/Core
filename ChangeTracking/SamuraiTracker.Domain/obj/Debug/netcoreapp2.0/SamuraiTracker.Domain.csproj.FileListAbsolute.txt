@@ -1,0 +1,9 @@
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\SamuraiTracker.Domain\bin\Debug\netcoreapp2.0\SamuraiTracker.Domain.deps.json
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\SamuraiTracker.Domain\bin\Debug\netcoreapp2.0\SamuraiTracker.Domain.dll
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\SamuraiTracker.Domain\bin\Debug\netcoreapp2.0\SamuraiTracker.Domain.pdb
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\SamuraiTracker.Domain\obj\Debug\netcoreapp2.0\SamuraiTracker.Domain.csprojAssemblyReference.cache
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\SamuraiTracker.Domain\obj\Debug\netcoreapp2.0\SamuraiTracker.Domain.csproj.CoreCompileInputs.cache
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\SamuraiTracker.Domain\obj\Debug\netcoreapp2.0\SamuraiTracker.Domain.AssemblyInfoInputs.cache
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\SamuraiTracker.Domain\obj\Debug\netcoreapp2.0\SamuraiTracker.Domain.AssemblyInfo.cs
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\SamuraiTracker.Domain\obj\Debug\netcoreapp2.0\SamuraiTracker.Domain.dll
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\SamuraiTracker.Domain\obj\Debug\netcoreapp2.0\SamuraiTracker.Domain.pdb

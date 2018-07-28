@@ -1,0 +1,14 @@
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\obj\Debug\netcoreapp2.0\EFCoreDbContext.csprojAssemblyReference.cache
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\obj\Debug\netcoreapp2.0\EFCoreDbContext.csproj.CoreCompileInputs.cache
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\obj\Debug\netcoreapp2.0\EFCoreDbContext.AssemblyInfoInputs.cache
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\obj\Debug\netcoreapp2.0\EFCoreDbContext.AssemblyInfo.cs
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\bin\Debug\netcoreapp2.0\EFCoreDbContext.deps.json
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\bin\Debug\netcoreapp2.0\EFCoreDbContext.dll
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\bin\Debug\netcoreapp2.0\SamuraiTracker.Domain.dll
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\bin\Debug\netcoreapp2.0\SamuraiTracker.Domain.pdb
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\obj\Debug\netcoreapp2.0\EFCoreDbContext.csproj.CopyComplete
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\bin\Debug\netcoreapp2.0\EFCoreDbContext.runtimeconfig.json
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\bin\Debug\netcoreapp2.0\EFCoreDbContext.runtimeconfig.dev.json
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\bin\Debug\netcoreapp2.0\EFCoreDbContext.pdb
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\obj\Debug\netcoreapp2.0\EFCoreDbContext.dll
+c:\users\jimmy\documents\visual studio 2017\Projects\ChangeTracking\EFCoreDbContext\obj\Debug\netcoreapp2.0\EFCoreDbContext.pdb
