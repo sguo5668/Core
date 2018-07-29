@@ -1,0 +1,12 @@
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CoreIdentityStoreExtraInfoToClaim\CoreIdentityStoreExtraInfoToClaim\bin\Debug\netcoreapp2.0\CoreIdentityStoreExtraInfoToClaim.deps.json
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CoreIdentityStoreExtraInfoToClaim\CoreIdentityStoreExtraInfoToClaim\bin\Debug\netcoreapp2.0\CoreIdentityStoreExtraInfoToClaim.runtimeconfig.json
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CoreIdentityStoreExtraInfoToClaim\CoreIdentityStoreExtraInfoToClaim\bin\Debug\netcoreapp2.0\CoreIdentityStoreExtraInfoToClaim.runtimeconfig.dev.json
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CoreIdentityStoreExtraInfoToClaim\CoreIdentityStoreExtraInfoToClaim\bin\Debug\netcoreapp2.0\CoreIdentityStoreExtraInfoToClaim.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CoreIdentityStoreExtraInfoToClaim\CoreIdentityStoreExtraInfoToClaim\bin\Debug\netcoreapp2.0\CoreIdentityStoreExtraInfoToClaim.pdb
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CoreIdentityStoreExtraInfoToClaim\CoreIdentityStoreExtraInfoToClaim\obj\Debug\netcoreapp2.0\CoreIdentityStoreExtraInfoToClaim.csprojAssemblyReference.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CoreIdentityStoreExtraInfoToClaim\CoreIdentityStoreExtraInfoToClaim\obj\Debug\netcoreapp2.0\CoreIdentityStoreExtraInfoToClaim.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CoreIdentityStoreExtraInfoToClaim\CoreIdentityStoreExtraInfoToClaim\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CoreIdentityStoreExtraInfoToClaim\CoreIdentityStoreExtraInfoToClaim\obj\Debug\netcoreapp2.0\CoreIdentityStoreExtraInfoToClaim.AssemblyInfoInputs.cache
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CoreIdentityStoreExtraInfoToClaim\CoreIdentityStoreExtraInfoToClaim\obj\Debug\netcoreapp2.0\CoreIdentityStoreExtraInfoToClaim.AssemblyInfo.cs
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CoreIdentityStoreExtraInfoToClaim\CoreIdentityStoreExtraInfoToClaim\obj\Debug\netcoreapp2.0\CoreIdentityStoreExtraInfoToClaim.dll
+C:\Users\jimmy\Documents\Visual Studio 2017\Projects\CoreIdentityStoreExtraInfoToClaim\CoreIdentityStoreExtraInfoToClaim\obj\Debug\netcoreapp2.0\CoreIdentityStoreExtraInfoToClaim.pdb
