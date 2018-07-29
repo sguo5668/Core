@@ -1,0 +1,11 @@
+C:\Users\jimmy\Desktop\Core101\Demos-master\Demos-master\src\MenuSolutions\MenusSolution\bin\Debug\netcoreapp2.0\MenusSolution.deps.json
+C:\Users\jimmy\Desktop\Core101\Demos-master\Demos-master\src\MenuSolutions\MenusSolution\bin\Debug\netcoreapp2.0\MenusSolution.runtimeconfig.json
+C:\Users\jimmy\Desktop\Core101\Demos-master\Demos-master\src\MenuSolutions\MenusSolution\bin\Debug\netcoreapp2.0\MenusSolution.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\Core101\Demos-master\Demos-master\src\MenuSolutions\MenusSolution\bin\Debug\netcoreapp2.0\MenusSolution.dll
+C:\Users\jimmy\Desktop\Core101\Demos-master\Demos-master\src\MenuSolutions\MenusSolution\bin\Debug\netcoreapp2.0\MenusSolution.pdb
+C:\Users\jimmy\Desktop\Core101\Demos-master\Demos-master\src\MenuSolutions\MenusSolution\obj\Debug\netcoreapp2.0\MenusSolution.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\Core101\Demos-master\Demos-master\src\MenuSolutions\MenusSolution\obj\Debug\netcoreapp2.0\MenusSolution.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\Core101\Demos-master\Demos-master\src\MenuSolutions\MenusSolution\obj\Debug\netcoreapp2.0\MenusSolution.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\Core101\Demos-master\Demos-master\src\MenuSolutions\MenusSolution\obj\Debug\netcoreapp2.0\MenusSolution.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\Core101\Demos-master\Demos-master\src\MenuSolutions\MenusSolution\obj\Debug\netcoreapp2.0\MenusSolution.dll
+C:\Users\jimmy\Desktop\Core101\Demos-master\Demos-master\src\MenuSolutions\MenusSolution\obj\Debug\netcoreapp2.0\MenusSolution.pdb
