@@ -1,0 +1,24 @@
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\Article1\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.deps.json
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\Article1\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.runtimeconfig.json
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\Article1\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.runtimeconfig.dev.json
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\Article1\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.dll
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\Article1\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.pdb
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\Article1\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.csprojResolveAssemblyReference.cache
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\Article1\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.csproj.CoreCompileInputs.cache
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\Article1\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\Article1\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.AssemblyInfoInputs.cache
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\Article1\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.AssemblyInfo.cs
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\Article1\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.dll
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\Article1\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.pdb
+C:\Users\jimmy\Desktop\My Book\Getting Started With ASP.NET Core 2.0 Identity And Role Management\C#\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.deps.json
+C:\Users\jimmy\Desktop\My Book\Getting Started With ASP.NET Core 2.0 Identity And Role Management\C#\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.runtimeconfig.json
+C:\Users\jimmy\Desktop\My Book\Getting Started With ASP.NET Core 2.0 Identity And Role Management\C#\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\My Book\Getting Started With ASP.NET Core 2.0 Identity And Role Management\C#\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.dll
+C:\Users\jimmy\Desktop\My Book\Getting Started With ASP.NET Core 2.0 Identity And Role Management\C#\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.pdb
+C:\Users\jimmy\Desktop\My Book\Getting Started With ASP.NET Core 2.0 Identity And Role Management\C#\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\My Book\Getting Started With ASP.NET Core 2.0 Identity And Role Management\C#\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\My Book\Getting Started With ASP.NET Core 2.0 Identity And Role Management\C#\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\jimmy\Desktop\My Book\Getting Started With ASP.NET Core 2.0 Identity And Role Management\C#\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\My Book\Getting Started With ASP.NET Core 2.0 Identity And Role Management\C#\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\My Book\Getting Started With ASP.NET Core 2.0 Identity And Role Management\C#\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.dll
+C:\Users\jimmy\Desktop\My Book\Getting Started With ASP.NET Core 2.0 Identity And Role Management\C#\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.pdb
