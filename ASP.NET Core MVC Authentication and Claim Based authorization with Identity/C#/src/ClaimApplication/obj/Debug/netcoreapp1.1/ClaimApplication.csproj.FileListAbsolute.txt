@@ -1,0 +1,11 @@
+C:\Users\jimmy\Desktop\My Book\ASP.NET Core MVC Authentication and Claim Based authorization with Identity\C#\src\ClaimApplication\bin\Debug\netcoreapp1.1\ClaimApplication.deps.json
+C:\Users\jimmy\Desktop\My Book\ASP.NET Core MVC Authentication and Claim Based authorization with Identity\C#\src\ClaimApplication\bin\Debug\netcoreapp1.1\ClaimApplication.runtimeconfig.json
+C:\Users\jimmy\Desktop\My Book\ASP.NET Core MVC Authentication and Claim Based authorization with Identity\C#\src\ClaimApplication\bin\Debug\netcoreapp1.1\ClaimApplication.runtimeconfig.dev.json
+C:\Users\jimmy\Desktop\My Book\ASP.NET Core MVC Authentication and Claim Based authorization with Identity\C#\src\ClaimApplication\bin\Debug\netcoreapp1.1\ClaimApplication.dll
+C:\Users\jimmy\Desktop\My Book\ASP.NET Core MVC Authentication and Claim Based authorization with Identity\C#\src\ClaimApplication\bin\Debug\netcoreapp1.1\ClaimApplication.pdb
+C:\Users\jimmy\Desktop\My Book\ASP.NET Core MVC Authentication and Claim Based authorization with Identity\C#\src\ClaimApplication\obj\Debug\netcoreapp1.1\ClaimApplication.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\My Book\ASP.NET Core MVC Authentication and Claim Based authorization with Identity\C#\src\ClaimApplication\obj\Debug\netcoreapp1.1\ClaimApplication.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\My Book\ASP.NET Core MVC Authentication and Claim Based authorization with Identity\C#\src\ClaimApplication\obj\Debug\netcoreapp1.1\ClaimApplication.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\My Book\ASP.NET Core MVC Authentication and Claim Based authorization with Identity\C#\src\ClaimApplication\obj\Debug\netcoreapp1.1\ClaimApplication.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\My Book\ASP.NET Core MVC Authentication and Claim Based authorization with Identity\C#\src\ClaimApplication\obj\Debug\netcoreapp1.1\ClaimApplication.dll
+C:\Users\jimmy\Desktop\My Book\ASP.NET Core MVC Authentication and Claim Based authorization with Identity\C#\src\ClaimApplication\obj\Debug\netcoreapp1.1\ClaimApplication.pdb
