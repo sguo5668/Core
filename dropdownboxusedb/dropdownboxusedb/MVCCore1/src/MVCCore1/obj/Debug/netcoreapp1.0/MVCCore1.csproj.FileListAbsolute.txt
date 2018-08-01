@@ -1,0 +1,11 @@
+C:\Users\sguo\Desktop\complexcontrol\dropdownbox\MVCCore1\src\MVCCore1\bin\Debug\netcoreapp1.0\MVCCore1.deps.json
+C:\Users\sguo\Desktop\complexcontrol\dropdownbox\MVCCore1\src\MVCCore1\bin\Debug\netcoreapp1.0\MVCCore1.runtimeconfig.json
+C:\Users\sguo\Desktop\complexcontrol\dropdownbox\MVCCore1\src\MVCCore1\bin\Debug\netcoreapp1.0\MVCCore1.runtimeconfig.dev.json
+C:\Users\sguo\Desktop\complexcontrol\dropdownbox\MVCCore1\src\MVCCore1\bin\Debug\netcoreapp1.0\MVCCore1.dll
+C:\Users\sguo\Desktop\complexcontrol\dropdownbox\MVCCore1\src\MVCCore1\bin\Debug\netcoreapp1.0\MVCCore1.pdb
+C:\Users\sguo\Desktop\complexcontrol\dropdownbox\MVCCore1\src\MVCCore1\obj\Debug\netcoreapp1.0\MVCCore1.csprojAssemblyReference.cache
+C:\Users\sguo\Desktop\complexcontrol\dropdownbox\MVCCore1\src\MVCCore1\obj\Debug\netcoreapp1.0\MVCCore1.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Desktop\complexcontrol\dropdownbox\MVCCore1\src\MVCCore1\obj\Debug\netcoreapp1.0\MVCCore1.AssemblyInfoInputs.cache
+C:\Users\sguo\Desktop\complexcontrol\dropdownbox\MVCCore1\src\MVCCore1\obj\Debug\netcoreapp1.0\MVCCore1.AssemblyInfo.cs
+C:\Users\sguo\Desktop\complexcontrol\dropdownbox\MVCCore1\src\MVCCore1\obj\Debug\netcoreapp1.0\MVCCore1.dll
+C:\Users\sguo\Desktop\complexcontrol\dropdownbox\MVCCore1\src\MVCCore1\obj\Debug\netcoreapp1.0\MVCCore1.pdb

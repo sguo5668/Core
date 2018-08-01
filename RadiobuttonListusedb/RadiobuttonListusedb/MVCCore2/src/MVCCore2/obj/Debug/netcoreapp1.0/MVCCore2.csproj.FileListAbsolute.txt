@@ -1,0 +1,11 @@
+C:\Users\sguo\Desktop\complexcontrol\RadiobuttonList\MVCCore2\src\MVCCore2\bin\Debug\netcoreapp1.0\MVCCore2.deps.json
+C:\Users\sguo\Desktop\complexcontrol\RadiobuttonList\MVCCore2\src\MVCCore2\bin\Debug\netcoreapp1.0\MVCCore2.runtimeconfig.json
+C:\Users\sguo\Desktop\complexcontrol\RadiobuttonList\MVCCore2\src\MVCCore2\bin\Debug\netcoreapp1.0\MVCCore2.runtimeconfig.dev.json
+C:\Users\sguo\Desktop\complexcontrol\RadiobuttonList\MVCCore2\src\MVCCore2\bin\Debug\netcoreapp1.0\MVCCore2.dll
+C:\Users\sguo\Desktop\complexcontrol\RadiobuttonList\MVCCore2\src\MVCCore2\bin\Debug\netcoreapp1.0\MVCCore2.pdb
+C:\Users\sguo\Desktop\complexcontrol\RadiobuttonList\MVCCore2\src\MVCCore2\obj\Debug\netcoreapp1.0\MVCCore2.csprojAssemblyReference.cache
+C:\Users\sguo\Desktop\complexcontrol\RadiobuttonList\MVCCore2\src\MVCCore2\obj\Debug\netcoreapp1.0\MVCCore2.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Desktop\complexcontrol\RadiobuttonList\MVCCore2\src\MVCCore2\obj\Debug\netcoreapp1.0\MVCCore2.AssemblyInfoInputs.cache
+C:\Users\sguo\Desktop\complexcontrol\RadiobuttonList\MVCCore2\src\MVCCore2\obj\Debug\netcoreapp1.0\MVCCore2.AssemblyInfo.cs
+C:\Users\sguo\Desktop\complexcontrol\RadiobuttonList\MVCCore2\src\MVCCore2\obj\Debug\netcoreapp1.0\MVCCore2.dll
+C:\Users\sguo\Desktop\complexcontrol\RadiobuttonList\MVCCore2\src\MVCCore2\obj\Debug\netcoreapp1.0\MVCCore2.pdb

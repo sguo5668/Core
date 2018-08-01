@@ -1,0 +1,36 @@
+﻿@model MVCCore1.Models.CountryMaster
+@{
+
+    <form asp-controller="Demo" asp-action="Index" method="post" class="form-horizontal" role="form">
+        <div class="form-group">
+            <div class="row">
+                <div class="alert-danger" asp-validation-summary="ModelOnly"></div>
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+                    <label asp-for="Name" class="control-label"></label>
+                    <select asp-for="ID"
+                            class="form-control"
+                            asp-items="@(new SelectList(@ViewBag.ListofCountry,"ID", "Name"))"></select>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+                    <input id="Submit1" type="submit" value="submit" />
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+                    @if (ViewBag.SelectedValue != null)
+                    {
+                        <text>Selected Country ID: </text> @ViewBag.SelectedValue;
+                    }
+                </div>
+            </div>
+        </div>
+
+    </form>
+}

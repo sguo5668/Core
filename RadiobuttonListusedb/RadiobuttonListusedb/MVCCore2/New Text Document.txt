@@ -1,0 +1,21 @@
+CREATE TABLE [dbo].[Category](
+	[CategoryID] [int] IDENTITY(1,1) NOT NULL,
+	[CategoryName] [varchar](50) NULL,
+ CONSTRAINT [PK_Category] PRIMARY KEY CLUSTERED 
+(
+	[CategoryID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+SET ANSI_PADDING OFF
+GO
+SET IDENTITY_INSERT [dbo].[Category] ON
+INSERT [dbo].[Category] ([CategoryID], [CategoryName]) VALUES (1, N'Mobiles')
+INSERT [dbo].[Category] ([CategoryID], [CategoryName]) VALUES (2, N'Mobile Accessories')
+INSERT [dbo].[Category] ([CategoryID], [CategoryName]) VALUES (3, N'Wearables')
+INSERT [dbo].[Category] ([CategoryID], [CategoryName]) VALUES (4, N'Laptops')
+INSERT [dbo].[Category] ([CategoryID], [CategoryName]) VALUES (5, N'Computer Accessories')
+INSERT [dbo].[Category] ([CategoryID], [CategoryName]) VALUES (6, N'Computer Peripherals')
+INSERT [dbo].[Category] ([CategoryID], [CategoryName]) VALUES (7, N'TVs')
+INSERT [dbo].[Category] ([CategoryID], [CategoryName]) VALUES (8, N'Camera')
+SET IDENTITY_INSERT [dbo].[Category] OFF
