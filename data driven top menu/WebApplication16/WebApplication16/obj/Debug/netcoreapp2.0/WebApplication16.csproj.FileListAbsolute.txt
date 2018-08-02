@@ -1,0 +1,11 @@
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.deps.json
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.runtimeconfig.json
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.runtimeconfig.dev.json
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.dll
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.pdb
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.csprojAssemblyReference.cache
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.AssemblyInfoInputs.cache
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.AssemblyInfo.cs
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.dll
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.pdb

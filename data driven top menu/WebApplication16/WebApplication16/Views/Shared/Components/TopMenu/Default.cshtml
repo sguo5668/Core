@@ -1,0 +1,19 @@
+﻿@model IList<MenuItem>
+<ul class="nav navbar-nav">
+	@foreach (var item in Model)
+	{
+		var url = item.Url;
+		var target = "_self";
+
+		if (url.StartsWith("~"))
+		{
+			url = Url.Content(url);
+		}
+		if (item.OpenInNewWindow)
+		{
+			target = "_blank";
+		}
+
+		<li><a href="@url" target="@target">@item.Title</a></li>
+	}
+</ul>
