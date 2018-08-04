@@ -10,3 +10,15 @@ C:\Users\jimmy\Documents\Visual Studio 2017\Projects\IdentitySampleApplication\I
 C:\Users\jimmy\Documents\Visual Studio 2017\Projects\IdentitySampleApplication\IdentitySampleApplication\bin\Debug\netcoreapp2.0\IdentitySampleApplication.pdb
 C:\Users\jimmy\Documents\Visual Studio 2017\Projects\IdentitySampleApplication\IdentitySampleApplication\obj\Debug\netcoreapp2.0\IdentitySampleApplication.dll
 C:\Users\jimmy\Documents\Visual Studio 2017\Projects\IdentitySampleApplication\IdentitySampleApplication\obj\Debug\netcoreapp2.0\IdentitySampleApplication.pdb
+C:\Core\Core\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\IdentitySampleApplication\bin\Debug\netcoreapp2.0\IdentitySampleApplication.deps.json
+C:\Core\Core\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\IdentitySampleApplication\bin\Debug\netcoreapp2.0\IdentitySampleApplication.runtimeconfig.json
+C:\Core\Core\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\IdentitySampleApplication\bin\Debug\netcoreapp2.0\IdentitySampleApplication.runtimeconfig.dev.json
+C:\Core\Core\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\IdentitySampleApplication\bin\Debug\netcoreapp2.0\IdentitySampleApplication.dll
+C:\Core\Core\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\IdentitySampleApplication\bin\Debug\netcoreapp2.0\IdentitySampleApplication.pdb
+C:\Core\Core\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\IdentitySampleApplication\obj\Debug\netcoreapp2.0\IdentitySampleApplication.csprojAssemblyReference.cache
+C:\Core\Core\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\IdentitySampleApplication\obj\Debug\netcoreapp2.0\IdentitySampleApplication.csproj.CoreCompileInputs.cache
+C:\Core\Core\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\IdentitySampleApplication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Core\Core\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\IdentitySampleApplication\obj\Debug\netcoreapp2.0\IdentitySampleApplication.AssemblyInfoInputs.cache
+C:\Core\Core\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\IdentitySampleApplication\obj\Debug\netcoreapp2.0\IdentitySampleApplication.AssemblyInfo.cs
+C:\Core\Core\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\IdentitySampleApplication\obj\Debug\netcoreapp2.0\IdentitySampleApplication.dll
+C:\Core\Core\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\IdentitySampleApplication\obj\Debug\netcoreapp2.0\IdentitySampleApplication.pdb

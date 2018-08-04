@@ -13265,11 +13265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jimmy\\Documents\\Visual Studio 2017\\Projects\\IdentitySampleApplication\\IdentitySampleApplication\\IdentitySampleApplication.csproj",
+      "projectUniqueName": "C:\\Core\\Core\\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\\IdentitySampleApplication\\IdentitySampleApplication.csproj",
       "projectName": "IdentitySampleApplication",
-      "projectPath": "C:\\Users\\jimmy\\Documents\\Visual Studio 2017\\Projects\\IdentitySampleApplication\\IdentitySampleApplication\\IdentitySampleApplication.csproj",
+      "projectPath": "C:\\Core\\Core\\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\\IdentitySampleApplication\\IdentitySampleApplication.csproj",
       "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jimmy\\Documents\\Visual Studio 2017\\Projects\\IdentitySampleApplication\\IdentitySampleApplication\\obj\\",
+      "outputPath": "C:\\Core\\Core\\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\\IdentitySampleApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

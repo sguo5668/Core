@@ -6485,7 +6485,7 @@
       ]
     },
     "Microsoft.Extensions.FileProviders.Abstractions/2.0.1": {
-      "sha512": "OpBD27q2yUbGGsNix4ETWk1qr+gHetE9SzCy4dxziadvEZKWadJFke4j3k1n2Hjb/hoOsn883P3/LwI96aOnfA==",
+      "sha512": "Gzc5yXvwIrKpdti0Ev4jC0inVrGZpI86eLZorMVRqAPXowR8JDRbcHjhmID2EqA4rdhL/IsfD42+4upKpHULDw==",
       "type": "package",
       "path": "microsoft.extensions.fileproviders.abstractions/2.0.1",
       "files": [
@@ -6518,7 +6518,7 @@
       ]
     },
     "Microsoft.Extensions.FileProviders.Physical/2.0.1": {
-      "sha512": "ZWO+JaxNCtTpgYCsEeQkQF/QlPhjU7AJAnZgww/Tvi0+RcuZYnIGyvs4lMF5vU9Qh/Ps/pqgrsnqs3fyitGffg==",
+      "sha512": "h+6bcXYlGldl7BUhnQKFxL2sMfeg9Gr/AuVexYOCYWmzDsc4iyUoy3NL7i2vkG209wd0ZXf+pZzRDwGPFhmlSw==",
       "type": "package",
       "path": "microsoft.extensions.fileproviders.physical/2.0.1",
       "files": [
@@ -6529,7 +6529,7 @@
       ]
     },
     "Microsoft.Extensions.FileSystemGlobbing/2.0.1": {
-      "sha512": "XxyjZnPI52dRqgfOuTNgOMydHdzyDQGhILK2GkEZqrqty6NB8o7VbBHeoLqWwm2eXgjR8Gtl3zLSdMPmJd7vkQ==",
+      "sha512": "q7KsG2kjwo2Ps0WdV7MFh64cQS0UHikV8qv4HQrUfWQyxim5vNmLzAbuduarS9QWbhRHTtUanx+ohyAQdumdnw==",
       "type": "package",
       "path": "microsoft.extensions.filesystemglobbing/2.0.1",
       "files": [
@@ -6993,7 +6993,7 @@
       ]
     },
     "Microsoft.IdentityModel.Logging/1.1.4": {
-      "sha512": "h4yqF7Bi33yhHQzWQgLvtjCgYyTuzhEdtvs7M2FJ5w9WB23bw9LgzwMgE916VLpJUCkkvl//j68cP9kwUKLQiw==",
+      "sha512": "j7t22EsDOuo0IXqAbp6ijdB1GuaY8cu3YoPNZpymOhUMTVC+wRTV0IHqxL31HacCnJHU/igsqe70fDKZgZu3oA==",
       "type": "package",
       "path": "microsoft.identitymodel.logging/1.1.4",
       "files": [
@@ -7038,7 +7038,7 @@
       ]
     },
     "Microsoft.IdentityModel.Tokens/5.1.4": {
-      "sha512": "9+3GDm4Inw/H5znD/0l57jjF6uIdd/8HbvLmNjppFPUoajGSKR8Yv9rwW31Yz+PtYuCTyNEbA7SNlV5NpEJE5g==",
+      "sha512": "SsJbZVPvjSlKFDAQmR2wpL6ZD/vCFlIsf0jxRlBJwyzKXZy3Wi/Xo+fE2MzAerLsJgG1UCdtplRwqDyq1euayw==",
       "type": "package",
       "path": "microsoft.identitymodel.tokens/5.1.4",
       "files": [
@@ -7651,7 +7651,7 @@
       ]
     },
     "Newtonsoft.Json/10.0.1": {
-      "sha512": "lYyDr2UsR9APBffJtuN8c7Vua3QTaTXSCCy0ZMkON1uANdl4JcGMkJ9ddl8qubLDBax9B0QzMKtErmmFrc3uFQ==",
+      "sha512": "ebWzW9j2nwxQeBo59As2TYn7nYr9BHicqqCwHOD1Vdo+50HBtLPuqdiCYJcLdTRknpYis/DSEOQz5KmZxwrIAg==",
       "type": "package",
       "path": "newtonsoft.json/10.0.1",
       "files": [
@@ -7755,7 +7755,7 @@
       ]
     },
     "runtime.native.System.Data.SqlClient.sni/4.4.0": {
-      "sha512": "cgKckgz/i7Emc336IPXkrvpdFlJvCxsV8g8PYhoR/dybT5Rg7Hfs91kY/7Gr0XRiIHUT0K0WqAKMswbrhEnzoQ==",
+      "sha512": "qCGHu04F+2htqWEh0Bivp0Vt39zwxPVYRFhq1zbwdkU7TRJqktLhlY7AdKxDKwV3QtkMZA87V9gkrIdCmOiLPA==",
       "type": "package",
       "path": "runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
@@ -7924,7 +7924,7 @@
       ]
     },
     "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
-      "sha512": "03yPUlxhNwFc77EnVaMPDEXke+uQzd+k3EIheMqDp13aolA044tW/61l1QV2Zx2CpZJGAct0txgU7/9ULqRCKQ==",
+      "sha512": "I2JwiQl9a9Az95IYt0MOIm9tPl80JFutJrPrvoC3bsgOdLpdd41n8utklsMklyC2ry7/DtcKc/hFCE0VwVefrA==",
       "type": "package",
       "path": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
@@ -7938,7 +7938,7 @@
       ]
     },
     "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
-      "sha512": "jm+jNDY/s1TBzHbqvlVRrurvfPQkvmiVd7Sk+4PXH+Mzh3GKnwTvZV1mfIrwo6Ffox8ESmzip9B9zs5UA5A+yg==",
+      "sha512": "CsOpTIO36s972lm+E0AfKly5Hqfo0BPc+GK/d2e/6UXUf2b6KEQ6T94dowUIrn7Hx8bhrGT3zSyA70dpGYmiwg==",
       "type": "package",
       "path": "runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
@@ -7952,7 +7952,7 @@
       ]
     },
     "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
-      "sha512": "VTkbWrhVS4bvA+1dVb463s8tEUXLp2TPNHy7JpE/H6HkOCpbA6L9Tl7jPWqv8YsAElqddEKDWWj+MyYo0WcSNA==",
+      "sha512": "SumwFm7qF9Zr/V3vS2I48Dm8a4rHurKf7GxdvmtHjSkuGZYPZOzZT/YnEMxtZ4J1AkDb0DHwQbEplysMfuCF9Q==",
       "type": "package",
       "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
@@ -8863,7 +8863,7 @@
       ]
     },
     "System.Diagnostics.DiagnosticSource/4.4.1": {
-      "sha512": "NutfLB6fDaviR53S/VT1eyPNTh+TiwUtEnJQGnDach+cdkBHq7vfhdeepRXdEQAsK4KvhIwu6rvZR6nxChl6/A==",
+      "sha512": "U/KcC19fyLsPN1GLmeU2zQq15MMVcPwMOYPADVo1+WIoJpvMHxrzvl+BLLZwTEZSneGwaPFZ0aWr0nJ7B7LSdA==",
       "type": "package",
       "path": "system.diagnostics.diagnosticsource/4.4.1",
       "files": [
@@ -9319,7 +9319,7 @@
       ]
     },
     "System.IdentityModel.Tokens.Jwt/5.1.4": {
-      "sha512": "BGjuWf9sOeISFi7B+RsXrjac/zEeJapljOnWe/xMYhGzBMy4wN7aQn1gaTCJDTvhrW0lEpN4NnIBFciYbSKVCA==",
+      "sha512": "hLUU1N99aL9uyxiTraBnCKlpUKsbP/+5ygD7cswspH9/+M7fAAL0hRzt2aA4w7VEQlSSiu8j+xWFk3NRcqhfQQ==",
       "type": "package",
       "path": "system.identitymodel.tokens.jwt/5.1.4",
       "files": [
@@ -10054,7 +10054,7 @@
       ]
     },
     "System.Numerics.Vectors/4.4.0": {
-      "sha512": "VwzwiyEnCjVEN871znlfqNdmOPOVNvp2mOAXmnIka3C7u9N39lJ1WHgEbFF5Q3SyfpvNa8lpXrshRzL2x2qI2A==",
+      "sha512": "UiLzLW+Lw6HLed1Hcg+8jSRttrbuXv7DANVj0DkL9g6EnnzbL75EB7EWsw5uRbhxd/4YdG8li5XizGWepmG3PQ==",
       "type": "package",
       "path": "system.numerics.vectors/4.4.0",
       "files": [
@@ -11478,7 +11478,7 @@
       ]
     },
     "System.Security.Cryptography.Xml/4.4.2": {
-      "sha512": "1m+fKVrApgKYMRuE0MF0vGjqy4XqAp1rCtyAzMXhJajMDDytMh/rHk9hp4M7KKk3QQZoWJUvyUY7xcw74w+JiQ==",
+      "sha512": "q9Dren/YP5jhRCkDvLfuaPpMTQzP97ANvzq/OoGgwK8YdLRSTABS9oW5/23OKoM2DRCuBrh4qaecD2YNhPtuzQ==",
       "type": "package",
       "path": "system.security.cryptography.xml/4.4.2",
       "files": [
@@ -11554,7 +11554,7 @@
       ]
     },
     "System.Security.Principal.Windows/4.4.0": {
-      "sha512": "0veEyIN2alZpz0t++LILLtgfA0rAQbcistBEHQKzBLI+5tTpMvmqvI/6Zcf1oXLbKueWxs+zJ4QMk+OjIKrWxQ==",
+      "sha512": "pP+AOzt1o3jESOuLmf52YQTF7H3Ng9hTnrOESQiqsnl2IbBh1HInsAMHYtoh75iUYV0OIkHmjvveraYB6zM97w==",
       "type": "package",
       "path": "system.security.principal.windows/4.4.0",
       "files": [
@@ -11722,7 +11722,7 @@
       ]
     },
     "System.Text.Encoding.CodePages/4.4.0": {
-      "sha512": "b7FRjE3XjS38cUfL87J9FdD6Tht7krVHo6ryM9rkzX3cdYw75Fs5Zjkf7AaWwg7BAhiwtXLgRzG4wS71BNagkw==",
+      "sha512": "6u3gFmTlMl17CpBwXtnUK3CQrATFcqg3lb9EiKyYHAR+oYZvuWgGvzKOE07mFgVhawIJSxHILgfpypaoAq9WDQ==",
       "type": "package",
       "path": "system.text.encoding.codepages/4.4.0",
       "files": [
@@ -12663,23 +12663,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sguo\\.nuget\\packages\\": {},
+    "C:\\Users\\jimmy\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sguo\\Documents\\Visual Studio 2017\\Projects\\WebApplication16\\WebApplication16\\WebApplication16.csproj",
+      "projectUniqueName": "C:\\Core\\Core\\data driven top menu\\WebApplication16\\WebApplication16\\WebApplication16.csproj",
       "projectName": "WebApplication16",
-      "projectPath": "C:\\Users\\sguo\\Documents\\Visual Studio 2017\\Projects\\WebApplication16\\WebApplication16\\WebApplication16.csproj",
-      "packagesPath": "C:\\Users\\sguo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sguo\\Documents\\Visual Studio 2017\\Projects\\WebApplication16\\WebApplication16\\obj\\",
+      "projectPath": "C:\\Core\\Core\\data driven top menu\\WebApplication16\\WebApplication16\\WebApplication16.csproj",
+      "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
+      "outputPath": "C:\\Core\\Core\\data driven top menu\\WebApplication16\\WebApplication16\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\sguo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
