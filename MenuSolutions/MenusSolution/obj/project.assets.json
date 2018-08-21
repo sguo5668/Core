@@ -13169,11 +13169,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jimmy\\Desktop\\Core101\\Demos-master\\Demos-master\\src\\MenuSolutions\\MenusSolution\\MenusSolution.csproj",
+      "projectUniqueName": "C:\\Core\\Core\\MenuSolutions\\MenusSolution\\MenusSolution.csproj",
       "projectName": "MenusSolution",
-      "projectPath": "C:\\Users\\jimmy\\Desktop\\Core101\\Demos-master\\Demos-master\\src\\MenuSolutions\\MenusSolution\\MenusSolution.csproj",
+      "projectPath": "C:\\Core\\Core\\MenuSolutions\\MenusSolution\\MenusSolution.csproj",
       "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jimmy\\Desktop\\Core101\\Demos-master\\Demos-master\\src\\MenuSolutions\\MenusSolution\\obj\\",
+      "outputPath": "C:\\Core\\Core\\MenuSolutions\\MenusSolution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

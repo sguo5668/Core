@@ -43,7 +43,7 @@ namespace MenusSolution
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Menus}/{action=Model}/{id?}");
             });
         }
     }
