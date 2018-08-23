@@ -1,0 +1,11 @@
+C:\Users\sguo\Desktop\coreapi\CoreAPI\client\bin\Debug\netcoreapp2.0\CoreTaskApp.deps.json
+C:\Users\sguo\Desktop\coreapi\CoreAPI\client\bin\Debug\netcoreapp2.0\CoreTaskApp.runtimeconfig.json
+C:\Users\sguo\Desktop\coreapi\CoreAPI\client\bin\Debug\netcoreapp2.0\CoreTaskApp.runtimeconfig.dev.json
+C:\Users\sguo\Desktop\coreapi\CoreAPI\client\bin\Debug\netcoreapp2.0\CoreTaskApp.dll
+C:\Users\sguo\Desktop\coreapi\CoreAPI\client\bin\Debug\netcoreapp2.0\CoreTaskApp.pdb
+C:\Users\sguo\Desktop\coreapi\CoreAPI\client\obj\Debug\netcoreapp2.0\CoreTaskApp.csprojResolveAssemblyReference.cache
+C:\Users\sguo\Desktop\coreapi\CoreAPI\client\obj\Debug\netcoreapp2.0\CoreTaskApp.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Desktop\coreapi\CoreAPI\client\obj\Debug\netcoreapp2.0\CoreTaskApp.AssemblyInfoInputs.cache
+C:\Users\sguo\Desktop\coreapi\CoreAPI\client\obj\Debug\netcoreapp2.0\CoreTaskApp.AssemblyInfo.cs
+C:\Users\sguo\Desktop\coreapi\CoreAPI\client\obj\Debug\netcoreapp2.0\CoreTaskApp.dll
+C:\Users\sguo\Desktop\coreapi\CoreAPI\client\obj\Debug\netcoreapp2.0\CoreTaskApp.pdb

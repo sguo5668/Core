@@ -1,0 +1,11 @@
+C:\Users\sguo\Desktop\core webapi\simpleWebApi\HttpClientTest\bin\Debug\netcoreapp2.0\HttpClientTest.deps.json
+C:\Users\sguo\Desktop\core webapi\simpleWebApi\HttpClientTest\bin\Debug\netcoreapp2.0\HttpClientTest.runtimeconfig.json
+C:\Users\sguo\Desktop\core webapi\simpleWebApi\HttpClientTest\bin\Debug\netcoreapp2.0\HttpClientTest.runtimeconfig.dev.json
+C:\Users\sguo\Desktop\core webapi\simpleWebApi\HttpClientTest\bin\Debug\netcoreapp2.0\HttpClientTest.dll
+C:\Users\sguo\Desktop\core webapi\simpleWebApi\HttpClientTest\obj\Debug\netcoreapp2.0\HttpClientTest.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Desktop\core webapi\simpleWebApi\HttpClientTest\obj\Debug\netcoreapp2.0\HttpClientTest.AssemblyInfoInputs.cache
+C:\Users\sguo\Desktop\core webapi\simpleWebApi\HttpClientTest\obj\Debug\netcoreapp2.0\HttpClientTest.AssemblyInfo.cs
+C:\Users\sguo\Desktop\core webapi\simpleWebApi\HttpClientTest\bin\Debug\netcoreapp2.0\HttpClientTest.pdb
+C:\Users\sguo\Desktop\core webapi\simpleWebApi\HttpClientTest\obj\Debug\netcoreapp2.0\HttpClientTest.csprojAssemblyReference.cache
+C:\Users\sguo\Desktop\core webapi\simpleWebApi\HttpClientTest\obj\Debug\netcoreapp2.0\HttpClientTest.dll
+C:\Users\sguo\Desktop\core webapi\simpleWebApi\HttpClientTest\obj\Debug\netcoreapp2.0\HttpClientTest.pdb

@@ -1,0 +1,34 @@
+C:\Users\NISHAN\documents\visual studio 2017\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.deps.json
+C:\Users\NISHAN\documents\visual studio 2017\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.runtimeconfig.json
+C:\Users\NISHAN\documents\visual studio 2017\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.runtimeconfig.dev.json
+C:\Users\NISHAN\documents\visual studio 2017\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.dll
+C:\Users\NISHAN\documents\visual studio 2017\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.pdb
+C:\Users\NISHAN\documents\visual studio 2017\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\NISHAN\documents\visual studio 2017\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.AssemblyInfo.cs
+C:\Users\NISHAN\documents\visual studio 2017\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.dll
+C:\Users\NISHAN\documents\visual studio 2017\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.pdb
+C:\Users\NISHAN\documents\visual studio 2017\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.csprojResolveAssemblyReference.cache
+C:\Users\sguo\Desktop\DemoApp\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.deps.json
+C:\Users\sguo\Desktop\DemoApp\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.runtimeconfig.json
+C:\Users\sguo\Desktop\DemoApp\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.runtimeconfig.dev.json
+C:\Users\sguo\Desktop\DemoApp\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.dll
+C:\Users\sguo\Desktop\DemoApp\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.pdb
+C:\Users\sguo\Desktop\DemoApp\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.csprojAssemblyReference.cache
+C:\Users\sguo\Desktop\DemoApp\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Desktop\DemoApp\DemoApp\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\sguo\Desktop\DemoApp\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.AssemblyInfoInputs.cache
+C:\Users\sguo\Desktop\DemoApp\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.AssemblyInfo.cs
+C:\Users\sguo\Desktop\DemoApp\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.dll
+C:\Users\sguo\Desktop\DemoApp\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.pdb
+C:\Users\sguo\Desktop\DemoApp3\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.deps.json
+C:\Users\sguo\Desktop\DemoApp3\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.runtimeconfig.json
+C:\Users\sguo\Desktop\DemoApp3\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.runtimeconfig.dev.json
+C:\Users\sguo\Desktop\DemoApp3\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.dll
+C:\Users\sguo\Desktop\DemoApp3\DemoApp\bin\Debug\netcoreapp1.1\DemoApp.pdb
+C:\Users\sguo\Desktop\DemoApp3\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.csprojAssemblyReference.cache
+C:\Users\sguo\Desktop\DemoApp3\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Desktop\DemoApp3\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.AssemblyInfoInputs.cache
+C:\Users\sguo\Desktop\DemoApp3\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.AssemblyInfo.cs
+C:\Users\sguo\Desktop\DemoApp3\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.dll
+C:\Users\sguo\Desktop\DemoApp3\DemoApp\obj\Debug\netcoreapp1.1\DemoApp.pdb
+C:\Users\sguo\Desktop\DemoApp3\DemoApp\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs

@@ -1,0 +1,11 @@
+c:\users\sguo\documents\visual studio 2017\Projects\simpleWebApi\repo2WebApi\obj\Debug\netcoreapp2.0\repo2WebApi.csproj.CoreCompileInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\simpleWebApi\repo2WebApi\obj\Debug\netcoreapp2.0\repo2WebApi.AssemblyInfoInputs.cache
+c:\users\sguo\documents\visual studio 2017\Projects\simpleWebApi\repo2WebApi\obj\Debug\netcoreapp2.0\repo2WebApi.AssemblyInfo.cs
+c:\users\sguo\documents\visual studio 2017\Projects\simpleWebApi\repo2WebApi\bin\Debug\netcoreapp2.0\repo2WebApi.deps.json
+c:\users\sguo\documents\visual studio 2017\Projects\simpleWebApi\repo2WebApi\bin\Debug\netcoreapp2.0\repo2WebApi.runtimeconfig.json
+c:\users\sguo\documents\visual studio 2017\Projects\simpleWebApi\repo2WebApi\bin\Debug\netcoreapp2.0\repo2WebApi.runtimeconfig.dev.json
+c:\users\sguo\documents\visual studio 2017\Projects\simpleWebApi\repo2WebApi\bin\Debug\netcoreapp2.0\repo2WebApi.dll
+c:\users\sguo\documents\visual studio 2017\Projects\simpleWebApi\repo2WebApi\bin\Debug\netcoreapp2.0\repo2WebApi.pdb
+c:\users\sguo\documents\visual studio 2017\Projects\simpleWebApi\repo2WebApi\obj\Debug\netcoreapp2.0\repo2WebApi.csprojAssemblyReference.cache
+c:\users\sguo\documents\visual studio 2017\Projects\simpleWebApi\repo2WebApi\obj\Debug\netcoreapp2.0\repo2WebApi.dll
+c:\users\sguo\documents\visual studio 2017\Projects\simpleWebApi\repo2WebApi\obj\Debug\netcoreapp2.0\repo2WebApi.pdb

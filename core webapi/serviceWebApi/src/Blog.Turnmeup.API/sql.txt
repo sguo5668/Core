@@ -1,0 +1,13 @@
+CREATE TABLE [dbo].[Courses](
+	[Id] [int] NULL,
+	[DateAdded] [datetime] NULL,
+	[DateModified] [datetime] NULL,
+	[Description] [nvarchar](50) NULL,
+	[Image] [image] NULL,
+	[Tags] [nchar](10) NULL,
+	[Title] [nchar](10) NULL,
+	[Url] [nchar](10) NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+

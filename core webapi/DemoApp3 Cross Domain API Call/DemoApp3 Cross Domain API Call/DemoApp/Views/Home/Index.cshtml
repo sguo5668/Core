@@ -1,0 +1,47 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+}
+
+@*Reference to JQuery*@
+@*<script src="~/lib/jquery/dist/jquery.min.js"></script>*@
+
+<script src="//code.jquery.com/jquery-1.12.3.js"></script>
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+
+</head>
+<body>
+	<input type="button" id="GetallData" value="Get All Data" />
+	<ul id="Customer"></ul>
+</body>
+</html>
+
+<script>
+	$(document).ready(function () {
+		var ulCustomers = $("#Customer");
+
+		$("#GetallData").click(function () {
+			$.ajax({
+				type: 'GET',
+				url: '/api/demo',
+	 
+				dataType: 'json',
+				success: function (data) {
+
+				//	alert(Json.stringify(data));
+					ulCustomers.empty();
+					$.each(data, function (index, val) {
+						var name = val.customerName;   //case senstive, not CustomerName
+						ulCustomers.append('<li>' + name + '</li>');
+					});
+				}
+			});
+		});
+	});
+</script>
