@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\DataAccess\bin\Debug\DataAccess.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\DataAccess\obj\Debug\DataAccess.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\DataAccess\obj\Debug\DataAccess.pdb

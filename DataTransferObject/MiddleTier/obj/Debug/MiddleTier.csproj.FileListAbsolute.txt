@@ -1,0 +1,50 @@
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\MiddleTier\bin\Debug\MiddleTier.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\MiddleTier\bin\Debug\MiddleTier.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\MiddleTier\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\MiddleTier\obj\Debug\MiddleTier.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\MiddleTier\obj\Debug\MiddleTier.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\MiddleTier\bin\Debug\MiddleTier.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\MiddleTier\bin\Debug\MiddleTier.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\MiddleTier\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\MiddleTier\bin\Debug\Entity.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\MiddleTier\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\MiddleTier\bin\Debug\Entity.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\MiddleTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\MiddleTier\obj\Debug\MiddleTier.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\MiddleTier\obj\Debug\MiddleTier.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\MiddleTier\bin\Debug\MiddleTier.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\MiddleTier\bin\Debug\MiddleTier.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\MiddleTier\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\MiddleTier\bin\Debug\DTO.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\MiddleTier\bin\Debug\Entity.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\MiddleTier\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\MiddleTier\bin\Debug\DTO.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\MiddleTier\bin\Debug\Entity.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\MiddleTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\MiddleTier\obj\Debug\MiddleTier.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\MiddleTier\obj\Debug\MiddleTier.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\MiddleTier\bin\Debug\MiddleTier.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\MiddleTier\bin\Debug\MiddleTier.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\MiddleTier\bin\Debug\DataAccess.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\MiddleTier\bin\Debug\DTO.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\MiddleTier\bin\Debug\Entity.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\MiddleTier\bin\Debug\DataAccess.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\MiddleTier\bin\Debug\DTO.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\MiddleTier\bin\Debug\Entity.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\MiddleTier\obj\Debug\MiddleTier.csprojResolveAssemblyReference.cache
+C:\Users\sguo\Desktop\pass data\DataTransferObject\MiddleTier\obj\Debug\MiddleTier.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Desktop\pass data\DataTransferObject\MiddleTier\obj\Debug\MiddleTier.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\MiddleTier\obj\Debug\MiddleTier.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\MiddleTier\bin\Debug\MiddleTier.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\MiddleTier\bin\Debug\MiddleTier.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\MiddleTier\bin\Debug\DataAccess.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\MiddleTier\bin\Debug\DTO.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\MiddleTier\bin\Debug\Entity.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\MiddleTier\bin\Debug\DataAccess.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\MiddleTier\bin\Debug\DTO.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\MiddleTier\bin\Debug\Entity.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\MiddleTier\obj\Debug\MiddleTier.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\MiddleTier\obj\Debug\MiddleTier.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\MiddleTier\obj\Debug\MiddleTier.csproj.CopyComplete
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\MiddleTier\obj\Debug\MiddleTier.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\MiddleTier\obj\Debug\MiddleTier.pdb

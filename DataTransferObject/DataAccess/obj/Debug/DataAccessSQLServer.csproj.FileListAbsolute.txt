@@ -1,0 +1,37 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\DataAccess\bin\Debug\Entity.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\DataAccess\bin\Debug\Entity.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DataAccess\bin\Debug\DTO.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DataAccess\bin\Debug\Entity.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DataAccess\bin\Debug\DTO.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DataAccess\bin\Debug\Entity.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DataAccess\bin\Debug\DTO.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DataAccess\bin\Debug\Entity.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DataAccess\bin\Debug\DTO.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DataAccess\bin\Debug\Entity.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DataAccess\obj\Debug\DataAccessSQLServer.csprojResolveAssemblyReference.cache
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DataAccess\obj\Debug\DataAccessSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DataAccess\bin\Debug\DTO.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DataAccess\bin\Debug\Entity.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DataAccess\bin\Debug\DTO.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DataAccess\bin\Debug\Entity.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DataAccess\obj\Debug\DataAccessSQLServer.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DataAccess\obj\Debug\DataAccessSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DataAccess\obj\Debug\DataAccessSQLServer.csproj.CopyComplete
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DataAccess\obj\Debug\DataAccess.pdb

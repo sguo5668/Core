@@ -1,0 +1,24 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DTO\bin\Debug\DTO.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DTO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DTO\bin\Debug\Entity.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DTO\bin\Debug\Entity.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DTO\obj\Debug\DTO.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\DTO\obj\Debug\DTO.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DTO\bin\Debug\DTO.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DTO\bin\Debug\DTO.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DTO\bin\Debug\Entity.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DTO\bin\Debug\Entity.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DTO\obj\Debug\DTO.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\DTO\obj\Debug\DTO.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DTO\bin\Debug\DTO.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DTO\bin\Debug\DTO.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DTO\bin\Debug\Entity.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DTO\bin\Debug\Entity.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DTO\obj\Debug\DTO.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,11 @@
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\BookService\BookService\bin\Debug\netcoreapp2.0\BookService.deps.json
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\BookService\BookService\bin\Debug\netcoreapp2.0\BookService.runtimeconfig.json
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\BookService\BookService\bin\Debug\netcoreapp2.0\BookService.runtimeconfig.dev.json
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\BookService\BookService\bin\Debug\netcoreapp2.0\BookService.dll
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\BookService\BookService\bin\Debug\netcoreapp2.0\BookService.pdb
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\BookService\BookService\obj\Debug\netcoreapp2.0\BookService.csprojAssemblyReference.cache
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\BookService\BookService\obj\Debug\netcoreapp2.0\BookService.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\BookService\BookService\obj\Debug\netcoreapp2.0\BookService.AssemblyInfoInputs.cache
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\BookService\BookService\obj\Debug\netcoreapp2.0\BookService.AssemblyInfo.cs
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\BookService\BookService\obj\Debug\netcoreapp2.0\BookService.dll
+C:\Users\sguo\Documents\Visual Studio 2017\Projects\BookService\BookService\obj\Debug\netcoreapp2.0\BookService.pdb

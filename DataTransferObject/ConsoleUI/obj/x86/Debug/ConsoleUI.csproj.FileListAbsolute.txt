@@ -1,0 +1,48 @@
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\ConsoleUI\bin\Debug\ConsoleUI.exe
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\ConsoleUI\bin\Debug\ConsoleUI.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\ConsoleUI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\ConsoleUI\obj\x86\Debug\ConsoleUI.exe
+c:\users\administrator\documents\visual studio 2010\Projects\MiddleTier\ConsoleUI\obj\x86\Debug\ConsoleUI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\ConsoleUI\obj\x86\Debug\ConsoleUI.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\ConsoleUI\obj\x86\Debug\ConsoleUI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\ConsoleUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\ConsoleUI\bin\Debug\Entity.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\ConsoleUI\bin\Debug\MiddleTier.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\ConsoleUI\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\ConsoleUI\bin\Debug\Entity.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\ConsoleUI\bin\Debug\MiddleTier.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\ConsoleUI\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\ConsoleUI\obj\x86\Debug\ConsoleUI.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\ConsoleUI\obj\x86\Debug\ConsoleUI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\ConsoleUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\bin\Debug\DTO.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\bin\Debug\Entity.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\bin\Debug\MiddleTier.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\bin\Debug\DataAccess.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\bin\Debug\DTO.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\bin\Debug\Entity.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\bin\Debug\MiddleTier.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\bin\Debug\DataAccess.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\obj\x86\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\obj\x86\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\obj\x86\Debug\ConsoleUI.exe
+C:\Users\sguo\Desktop\pass data\DataTransferObject\ConsoleUI\obj\x86\Debug\ConsoleUI.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\bin\Debug\DTO.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\bin\Debug\Entity.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\bin\Debug\MiddleTier.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\bin\Debug\DataAccess.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\bin\Debug\DTO.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\bin\Debug\Entity.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\bin\Debug\MiddleTier.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\bin\Debug\DataAccess.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\obj\x86\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\obj\x86\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\obj\x86\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\obj\x86\Debug\ConsoleUI.exe
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\ConsoleUI\obj\x86\Debug\ConsoleUI.pdb

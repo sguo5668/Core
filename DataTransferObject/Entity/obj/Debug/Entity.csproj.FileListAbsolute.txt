@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\Entity\bin\Debug\Entity.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\Entity\bin\Debug\Entity.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\Entity\obj\Debug\Entity.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Entity\Entity\obj\Debug\Entity.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\Entity\bin\Debug\Entity.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\Entity\bin\Debug\Entity.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\Entity\obj\Debug\Entity.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataTransferObject\Entity\obj\Debug\Entity.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\Entity\bin\Debug\Entity.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\Entity\bin\Debug\Entity.pdb
+C:\Users\sguo\Desktop\pass data\DataTransferObject\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\sguo\Desktop\pass data\DataTransferObject\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\sguo\Desktop\pass data\DataTransferObject\Entity\obj\Debug\Entity.dll
+C:\Users\sguo\Desktop\pass data\DataTransferObject\Entity\obj\Debug\Entity.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\Entity\bin\Debug\Entity.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\Entity\bin\Debug\Entity.pdb
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\Entity\obj\Debug\Entity.dll
+C:\Users\jimmy\Desktop\3-tier\pass data\pass data\DataTransferObject\Entity\obj\Debug\Entity.pdb
